@@ -3,9 +3,8 @@ layout: post
 title:  "Vysvětlení záměrů FS v kontextu současné sociologie"
 date:   2018-05-05 09:22:54 +0200
 categories: sociologie univerzita krize
+excerpt: Na FS je možné jako na organizaci mající konkrétní cíle vyplývajících z konkrétních problémů, kterým čelí studenti sociologie při svém studiu. Zároveň ale "fakultní sociologie" je způsobem nahlížení na sociální podmínky výuky sociologie, a tak vlastním sociologickým programem, jež si klade za cíl přinést sociologické poznání.  
 ---
-Fakultní sociologie, z. s. (FS) je nevládní a nezisková organizace, která pomáhá studentům sociologie a skrze tento záměr usiluje o obecný rozvoj oboru. Tento cíl nabývá dvou konkrétních podob, které vyplývají z postavení sociologie v českém vzdělávacím systému:
-
 Prvním cílem FS je zvýšit hodnotu studia sociologie. Osvojení sociologického poznání vyžaduje dialog a interaktivní výuku, kterou současné masové univerzitní vzdělání neumožňuje. Zároveň, FS usiluje o zlepšení obsahu společenských věd na středních školách, aby budoucí studenti měli dostatek informací o povaze sociologie a příbuzných oborů. Také usiluje o zlepšení povědomí o hodnotě sociologického vědění právě u těch studentů, kteří ji studovat nebudou. FS tyto výzvy řeší jejich propojením.
 
 V rámci seminářů FS se studenti učí vykládat sociologii a nacvičené dovednosti aplikují na interaktivních seminářích se středoškolskými žáky, či při přípravě materiálů pro učitele společenských věd. Takto se učí sociologii do hloubky skrze způsoby jejího veřejného a vlastního výkladu, tedy zjednodušováním. Díky tomu si noví studenti sociologie internalizují (přivlastňují) oborové vědění, aby mu dávali objektivní platnost a smysl skrze jeho sdílení. Protože pro dialog a interakce není prostor na univerzitní půdě, jsou rozvíjeny v prostoru mezi střední a vysokou školou.

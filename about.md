@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: O nás
+permalink: /info/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Fakultní sociologie, z. s. (FS) je nevládní a nezisková organizace, která pomáhá studentům sociologie a skrze tento záměr usiluje o obecný rozvoj oboru. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Pomáháme studentům najít uplatnění v průběhu studia a prohloubit jejich znalosti sociologie.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+# [Cíle]({{ "/assets/cile.pdf" | absolute_url }})
+# [Kontext]({{ "/assets/kontext.pdf" | absolute_url }})

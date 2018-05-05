@@ -11,7 +11,23 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">{% assign m = page.date | date: "%-m" %}
+{{ page.date | date: "%-d" }}
+{% case m %}
+  {% when '1' %}Lede
+  {% when '2' %}Únor
+  {% when '3' %}Březen
+  {% when '4' %}Duben
+  {% when '5' %}Květen
+  {% when '6' %}Červen
+  {% when '7' %}Červenec
+  {% when '8' %}Srpen
+  {% when '9' %}Září
+  {% when '10' %}Říjen
+  {% when '11' %}Listopad
+  {% when '12' %}Prosinec
+{% endcase %}
+{{ page.date | date: "%Y" }}</span>
 
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>

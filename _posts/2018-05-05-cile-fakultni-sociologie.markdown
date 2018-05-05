@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " Stručné vysvětlení cílů a obsahu činností FS"
+title:  "Stručné vysvětlení cílů a obsahu činností FS"
 date:   2018-05-05 10:22:54 +0200
 categories: sociologie univerzita krize
 ---

@@ -11,8 +11,9 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{% assign m = page.date | date: "%-m" %}
-{{ page.date | date: "%-d" }}
+        <span class="post-meta">
+{% assign m = post.date | date: "%-m" %}
+{{ post.date | date: "%-d" }}
 {% case m %}
   {% when '1' %}Lede
   {% when '2' %}Únor
@@ -27,7 +28,7 @@ layout: default
   {% when '11' %}Listopad
   {% when '12' %}Prosinec
 {% endcase %}
-{{ page.date | date: "%Y" }}</span>
+{{ post.date | date: "%Y" }}</span>
 
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>

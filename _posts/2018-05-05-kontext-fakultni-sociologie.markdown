@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Vysvětlení záměrů FS v kontextu současné sociologie"
+title:  "Okolnosti FS"
 date:   2018-05-05 09:22:54 +0200
 categories: sociologie univerzita krize
 author: Jiří Bureš
-excerpt: Na FS je možné nahlížet jako na organizaci mající konkrétní cíle vyplývajících z konkrétních problémů, kterým čelí studenti sociologie při svém studiu. Zároveň ale "fakultní sociologie" je způsobem nahlížení na sociální podmínky výuky sociologie, a tak vlastním sociologickým programem, jež si klade za cíl přinést sociologické poznání.  
+excerpt: Na FS je možné nahlížet jako na organizaci mající cíle vyplývajících z konkrétních problémů, kterým čelí studenti sociologie při svém studiu. Zároveň ale "fakultní sociologie" je způsobem nahlížení na sociální podmínky výuky sociologie, a tak výzkumným programem, jež si klade za cíl přinést nové sociologické poznání.  
 ---
 Prvním cílem FS je zvýšit hodnotu studia sociologie. Osvojení sociologického poznání vyžaduje dialog a interaktivní výuku, kterou současné masové univerzitní vzdělání neumožňuje. Zároveň, FS usiluje o zlepšení obsahu společenských věd na středních školách, aby budoucí studenti měli dostatek informací o povaze sociologie a příbuzných oborů. Také usiluje o zlepšení povědomí o hodnotě sociologického vědění právě u těch studentů, kteří ji studovat nebudou. FS tyto výzvy řeší jejich propojením.
 

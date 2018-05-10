@@ -5,7 +5,8 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{% assign m = post.date | date: "%-m" %}
+    <span class="post-meta">
+{% assign m = post.date | date: "%-m" %}
 {{ post.date | date: "%-d" }}
 {% case m %}
   {% when '1' %}Lede
@@ -21,7 +22,9 @@ layout: default
   {% when '11' %}Listopad
   {% when '12' %}Prosinec
 {% endcase %}
-{{ post.date | date: "%Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+{{ post.date | date: "%Y" }}</span>
+    
+    {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
   </header>
 
   <div class="post-content" itemprop="articleBody">

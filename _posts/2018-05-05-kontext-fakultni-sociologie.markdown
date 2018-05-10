@@ -7,7 +7,7 @@ author: Jiří Bureš
 excerpt: Na Fakultní sociologii, z.s. je možné nahlížet jako na organizaci pomáhající řešit konkrétní problémy, kterým čelí studenti sociologie. Tyto problémy nejsou však jen individuálními nesnázemi vyplývajícími z obtíží studia, ale vyplývají ze samotné povahy studia a její lokalizace ve vzdělávacím systému a české společnosti. Tato rizika, kterým studenti čelí, a na které individuálně obtížně nacházejí řešení, dále souvisí s obecnými problémy středního školství, humanitního vzdělání, či charakteru masové univerzity. Zároveň "fakultní sociologie" je způsobem nahlížení na sociální podmínky výuky sociologie, a tak výzkumným programem, jež si klade za cíl přinést nové sociologické poznání.
 ---
 
-#1. Problém
+1. Problém
 
 Východiskem pro aktivity Fakultní sociologie, z.s. je nahlížení na studium sociologie jako na sociální problém. 
 
@@ -20,7 +20,7 @@ Noví studenti nepřicházejí „řešit problém sociologie“ - ačkoliv tím
 Na nedostatky svých studentů vyučující sociologie nahlíží doposud jako na sumu individuální selhání, ale nepátrají po socilním vysvětlení. Přitom se nabízí hned několik možných přístupů, přičemž prvním je položit si otázku, jaké důsledky může současný sebe-popis sociologie (tj. co sociologie je a o co může usilovat), jako vědění vůbec přenositelné na studenty, v jejich sociálních podmínkách několikanásobné nejistoty.Sociologie je dnes velmi jistý obor o své nejistotě, jak na toto můžou reagovat její studenti? A za druhé, jakou úlohu sociologie plní v současném vzdělávacím systému a zda plní sociologickou funkci, či funkci "obecného vysokoškolského vzdělání". Přičemž přistupuje k výuce v domění prvním, aniž by se této své funkci buďto přizpůsobila, nebo se vůči ní vymezila.
 
 
-#2. Řešení
+2. Řešení
 
 Prvním cílem Fakultní sociologie, z.s. (dále FS) je zvýšit hodnotu studia sociologie. Osvojení sociologického poznání vyžaduje dialog a interaktivní výuku, kterou současné masové univerzitní vzdělání neumožňuje. Zároveň, FS usiluje o zlepšení obsahu společenských věd na středních školách, aby budoucí studenti měli dostatek informací o povaze sociologie a příbuzných oborů. Také usiluje o zlepšení povědomí o hodnotě sociologického vědění právě u těch studentů, kteří ji studovat nebudou. FS tyto výzvy řeší jejich propojením.
 

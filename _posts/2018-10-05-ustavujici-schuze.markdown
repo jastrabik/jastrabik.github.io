@@ -4,7 +4,7 @@ title:  "Ustavující schůze FS"
 date:   2018-05-05 10:22:54 +0200
 categories: organizace
 author: Jiří Bureš
-excerpt: Uprostřed jarní bouřky v příjemném postředí literární kavárny na Vinohradech a za hudby alba Awesome Wave od anglické skupiny Alt-J vzešla v život nezisková organizace Fakultní sociologie, z.s. 
+excerpt: Uprostřed jarní bouřky v literární kavárně na Vinohradech a za hudby alba An Awesome Wave od anglické skupiny Alt-J vzešla v život nezisková organizace Fakultní sociologie, z.s. 
 ---
 
 Svolavatelem schůze byly připomenuty cíle FS, byl určen rozdíl mezi aktivním členstvím (vyhledávání kontaktů, vedení seminářů) a obyčejným členstvím (možnost účastnit se seminářů a získávat newsleter FS).

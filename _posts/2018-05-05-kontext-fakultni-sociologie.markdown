@@ -4,11 +4,11 @@ title:  "Okolnosti FS"
 date:   2018-05-05 09:22:54 +0200
 categories: sociologie univerzita krize
 author: Jiří Bureš
-excerpt: Studenti sociologie často velmi obtížně nacházející odpovědi na tři otázky: 1. Co je sociologie?, 2. K čemu je sociologie?, 3. Co budeš se sociologií dělat? A často ani úspěšné studium nepomáhá vytvořit odpovědi, a tak formulovat důvody k dalšímu studiu, či samostudiu sociologie. Studenti v hluboké nejistotě čelí časově náročným úkolům, které dále kolidují s jejich prací při studiu. Ta je nezbytná právě z důvodů nízkých záruk, jaké diplom ze sociologie nabízí. Právě nesmírně rozmanitá povolání, která absolventi sociologie nakonec nachází, vytváří tlak na individuální řešení své osobní situace, což vede nutně odcizení od oboru, jehož obsahy existují jakoby na jiné úrovni reality. Takto sociologie selhává právě vůči největšímu publiku, jaké může mít.
+excerpt: Studenti sociologie často obtížně nacházejí odpovědi na tři otázky: 1. Co je sociologie?, 2. K čemu je sociologie?, 3. Co budeš se sociologií dělat? To nelze zdůvodnit individuální neznalostí a osobním selháním porozumět oboru, neboť často právě ani úspěšné studium nezvyšuji jistotu odpovědí. Příčinou nejistoty jsou pak přednosti sociologie, kterou je její rozmanitost. Avšak předání tohoto vědění neopovídají sociální podmínky současné masové univerzity. Důsledkem je odcizení studentů od oboru, frustrace a nízká motivace ke studiu. FS neusiluje ale o reformu sociologie, ale o reflexi sociálních podmínek její výuky, a tak o extenzi sociologie do každodenního života jejích studentů. 
 ---
 
 Fakultní sociologie, z. s. (FS) je nevládní a nezisková organizace, která pomáhá studentům
-sociologie odpovědět na otázky, které mají ohledně hodnoty a povahy jejich studie. A skrze tento záměr usiluje o obecný rozvoj oboru. Tento cíl nabývá dvou konkrétních podob, které vyplývají z postavení sociologie v českém vzdělávacím systému:
+sociologie odpovědět na otázky, které mají o hodnotě a povaze oboru. A skrze tento záměr usiluje o obecný rozvoj oboru. Tento cíl nabývá dvou konkrétních podob, které vyplývají z postavení sociologie v českém vzdělávacím systému:
 
 Prvním cílem FS je zvýšit hodnotu studia sociologie. Osvojení sociologického poznání
 vyžaduje dialog a interaktivní výuku, kterou současné masové univerzitní vzdělání
@@ -48,7 +48,7 @@ dovedností. Prostřednictvím autorství dochází k osobnímu rozvoji, který 
 nabýváním sociologické odbornosti. Proto jakkoliv jsou činnosti směřovány do volného času
 studentů, tak jsou zároveň prospěšné pro vlastní postup studiem. Tato jednota je umožněna
 praxí, kterou je svobodný pohyb – v prvním případě mezi střední a vysokou školou,
-společností a univerzitou. Právě v V tom se zrcadlí sama sociologie – rozhled nad rozmanitostí jiných
+společností a univerzitou. Právě v tom se zrcadlí sama sociologie – rozhled nad rozmanitostí jiných
 odborností, pohyb podél i napříč různými hranicemi ve společnosti.
 
 FS je nejen odpovědí na specifické nejistoty studentského života, ale sama usiluje o obecný
@@ -57,12 +57,14 @@ FS je označený stejnojmenně jako “fakultní sociologie” a navazuje, vedle
 sociologie, především na záměry veřejné sociologie. Ta může být definována jako
 schopnost říci něco publiku o něm samotném. Autorství pak znamená schopnost vystoupit a
 říci něco svým způsobem o publiku samotném. Na rozdíl od jiných věd se tak předmětem
-nestává “ono” a “oni”, ale “vy”. Aby mohla FS rozvíjet dvě úrovně autorství, tak slouží jako
+nestává “ono” a “oni”, ale “Vy”. Aby mohla FS rozvíjet dvě úrovně autorství, tak slouží jako
 platforma k oslovení dvou publik.
 
 Prvním publikem jsou současní a budoucí studenti sociologie. Jejich sdíleným tématem je
 pak univerzita, jako idea, tak jako praxe. Druhým publikem je nejširší společnost, pro niž je
 nejobecnějším sdíleným tématem modernizace, konkrétně pak rozmanité krize v jejím
-důsledku. Záměrem FS je proto vydávat časopis Krize, který slouží k popularizaci sociologie
-jako vědy nahlížející na rozmanité krize.
+důsledku. Záměrem FS je proto také vydávat časopis Krize, který slouží k popularizaci sociologie
+jako vědy nahlížející na rozmanité krize. 
+
+Všechny tyto činnosti - rozvoj autorství a schopnost identifikace vlastního sociologického tématu a zprostředkování publik k možnosti témata sdíle a autorství testovat, vede nakonec k otevření možnosti odpovědět na tři otázky každém studentu po svém. 
 

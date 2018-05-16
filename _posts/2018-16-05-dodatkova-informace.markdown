@@ -13,8 +13,7 @@ Všechny informace, které libovolná organizace (např. firma, samospráva, nez
 
 Otázky, které na příklad firma formuluje za účelem získání informací z neutříděných dat, jsou na příklad - Jak zvýšit zisk?, Jak zlepšit produkt?, Jak učinit produkci efektivnější?, Jak se dozvědět více o konkurenci?, Jak se dozvědě více o současných, či potenciálních klintech? Atd. Odpovědi na tyto otázky jsou ZI. 
 
-Koncept ZI:
-`Informace, která vyplývá z dat, které vyplývají z činnosti organizace (tj. zkušenosti, záznamy, minulé nákupy a prodeje), nebo je výsledkem čtení dat motivováných účelem a obsahem záměrů organizace (tj. zisk, služba, správa, plány).`
+```ZI je informace, která vyplývá z dat, které vyplývají z činnosti organizace (tj. zkušenosti, záznamy, minulé nákupy a prodeje), nebo je výsledkem čtení dat motivováných účelem a obsahem záměrů organizace (tj. zisk, služba, správa, plány).```
 
 ## Příklad
 
@@ -24,7 +23,7 @@ Představme si zároveň studenta historie, který se rozhodne napsat práci z o
 
 ## Koncept dodatkové informace (DI)
 
-`Informace je tedy DI pokud splňuje alespoň jednu z podmínek: 1. Pokud vyplývá z dat, která nejsou minulou činností organizace, 2. Pokud je čtení dat motivováno nikoliv účelem a obsahem záměru organizace.`
+```DI je informace, která vyplývá z dat, které nijak nesouvisí s minulou činností organizace, nebo pokud je čtení libovolných dat není motivováno účelem a obsahem záměru organizace.```
 
 Jak je zřejmé, DI buďto nahlíží na data organizace ze zcela odlišné perspektivy, nebo pracuje s daty, která jsou zcela vzdálené běžnému zájmu a vyžadují specializaci, která je mimo běžné orientace (např. historik v pekařství).
 

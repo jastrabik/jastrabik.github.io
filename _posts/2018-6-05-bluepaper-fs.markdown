@@ -7,6 +7,6 @@ author: Jiří Bureš
 excerpt: Jedním z hlavních produktů Fakultní sociologie, z.s. je schéma "Jak studovat sociologii", které nabízí z části tipy a rady, jak uspět ve studiu, tak představuje cíle FS, a tak ukazuje na způsoby, jak může členství pomoci.
 ---
 
+[Schéma 3400x2200]({{ "/assets/bluepaper-1.png" | absolute_url }})
 ![Náhled schématu FS]({{ "/assets/bluepaper-1.png" | absolute_url }})
 
-[Stáhnout]({{ "/assets/bluepaper-1.png" | absolute_url }})

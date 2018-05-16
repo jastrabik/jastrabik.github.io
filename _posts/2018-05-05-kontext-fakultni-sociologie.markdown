@@ -4,7 +4,7 @@ title:  "Okolnosti FS"
 date:   2018-05-05 09:22:54 +0200
 categories: sociologie univerzita krize
 author: Jiří Bureš
-excerpt: Studenti sociologie často obtížně nacházejí odpovědi na tři otázky: 1. Co je sociologie?, 2. K čemu je sociologie?, 3. Co budeš se sociologií dělat? To nelze zdůvodnit individuální neznalostí a osobním selháním porozumět oboru, neboť často právě ani úspěšné studium nezvyšuji jistotu odpovědí. Příčinou nejistoty jsou pak přednosti sociologie, kterou je její rozmanitost. Avšak předání tohoto vědění neopovídají sociální podmínky současné masové univerzity. Důsledkem je odcizení studentů od oboru, frustrace a nízká motivace ke studiu. FS neusiluje ale o reformu sociologie, ale o reflexi sociálních podmínek její výuky, a tak o extenzi sociologie do každodenního života jejích studentů. 
+excerpt:  
 ---
 
 Fakultní sociologie, z. s. (FS) je nevládní a nezisková organizace, která pomáhá studentům

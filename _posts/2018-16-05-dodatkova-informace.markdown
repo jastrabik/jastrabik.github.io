@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dodatková informace"
+title:  "Dodatková informace (DI)"
 date:   2018-05-16 22:22:54 +0200
 categories: koncepty
 author: Jiří Bureš
@@ -21,7 +21,7 @@ Představme si, že touto organizací je třeba malé pekařství. Její vlastn�
 Shodou okolností je zároveň pekařův vnuk studentem historie. Ten má zrovna za úkol (nebo si přeje) napsat práci z oblasti mikrohistorie.  Pekař se domluví se studentem, že ten mu za malou úplatu sepíše práci na téma "dějiny makového rohlíku" (na místo toho, aby si musel přivydělávat u studia jejich pečením). Jakékoliv zjištění, které získá pekař po přečtení "dějin makového rohlíku" je pak DI. U DI se však nedá předpovědět, jaký bude její účel. Může nějak posloužit v pekařství a její tématické vymezení to umožňuje, ale těžko může vyřešit nějaký specifický problém. Tak třeba možná přijde na nový recept, spíše než na vylepešení stávajícího. Nebo porozumí významům a původu svých receptu, o kterých neměl tušení.
 
 
-## Koncept dodatkové informace (DI)
+## Koncept dodatková informace (DI)
 
 **DI je informace, která vyplývá z dat, které nijak nesouvisí s minulou činností organizace, ale zároň souvisí s účelem organizace. Nebo DI je výsledkem čtení libovolných dat, které nebylo motivované účelem a obsahem záměru organizace.**
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Cíle FS"
 date:   2018-05-05 10:22:54 +0200
-categories: sociologie univerzita krize
+categories: organizace
 author: Jiří Bureš
 excerpt: Fakultní sociologie, z. s. (dále jen spolek) je nevládní a nezisková organizace, jejímž posláním je pomáhat studentům sociologie a popularizovat sociologii v české společnosti. Těchto cílů je dosahováno prostřednictvím čtyř hlavních činností (výuka studentů na SŠ, řešení školních prací s přesahem mimo univerzitu, rozvíjení autorských dovedností, průprava ve správě organizací).
 ---

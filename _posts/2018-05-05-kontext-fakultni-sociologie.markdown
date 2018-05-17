@@ -2,7 +2,7 @@
 layout: post
 title:  "Okolnosti FS"
 date:   2018-05-05 09:22:54 +0200
-categories: sociologie univerzita krize
+categories: organizace
 author: Jiří Bureš
 excerpt: Studenti sociologie často obtížně nacházejí odpovědi na tři otázky - 1. Co je sociologie?, 2. K čemu je sociologie?, 3. Co budeš se sociologií dělat? To nelze zdůvodnit individuální neznalostí a osobním selháním porozumět oboru, neboť často právě ani úspěšné studium nezvyšuji jistotu odpovědí. Příčinou nejistoty jsou přednosti sociologie – rozmanitost přístupů a předmětů zájmu. Avšak předat toto vědění vyžaduje specifické podmínky, kterým neodpovídají okolnosti současné masové univerzity. Důsledkem je pak odcizení studentů od oboru, frustrace a nízká motivace ke studiu. FS proto neusiluje o reformu sociologie, ale o reflexi právě těchto sociálních podmínek její výuky, a tak o extenzi sociologie do každodenního života jejích studentů.
 ---

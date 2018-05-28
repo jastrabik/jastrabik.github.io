@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Existenciální smysl studentské angažovanosti a spolkového života"
+title:  "Existenciální smysl studentské angažovanosti a spolkového života I"
 date:   2018-028-05 10:22:54 +0200
 categories: organizace
 author: Petr Ťoupalík

@@ -4,7 +4,7 @@ title:  "Existenciální smysl studentské angažovanosti a spolkového života"
 date:   2018-028-05 10:22:54 +0200
 categories: organizace
 author: Petr Ťoupalík
-excerpt: Jaký smysl má studovat humanitní obor v kontextu současné společnosti, současné univerzity, současné pozice v životě...? A jak k tomu (ne)pomáhají studentské spolky.
+excerpt: Jaký smysl má studovat humanitní obor v kontextu současné společnosti, současné univerzity, vlastního života...? A jak k jeho hledání a naplňování (ne)pomáhají studentské spolky?
 ---
 
 Pokud se hodláte vydat na cestu humanitního vzdělání, či již po ní kráčíte, máte možná podobné prvotní úmysly jako já, student politologie. Svůj obor jsem si vybral s nadějí, že se naučím jak promítnout své ideály do praxe –ale namísto toho jsem se již následující akademický rok na jednom filosofickém semináři uvedl jako „člověk, který má rád lidi, ale nevadilo by mu, kdyby svět zítra nebyl“.

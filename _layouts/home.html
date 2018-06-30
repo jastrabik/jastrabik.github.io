@@ -4,41 +4,11 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Příspěvky</h1>
+  <h1 class="page-heading"></h1>
+ 
+  Fakultní sociologie, z.s. je nezisková organizace, která usiluje o pomoc studentům sociologie a příbuzných oborů. 
   
-  {{ content }}
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">
-{% assign m = post.date | date: "%-m" %}
-{{ post.date | date: "%-d" }}
-{% case m %}
-  {% when '1' %}Lede
-  {% when '2' %}Únor
-  {% when '3' %}Březen
-  {% when '4' %}Duben
-  {% when '5' %}Květen
-  {% when '6' %}Červen
-  {% when '7' %}Červenec
-  {% when '8' %}Srpen
-  {% when '9' %}Září
-  {% when '10' %}Říjen
-  {% when '11' %}Listopad
-  {% when '12' %}Prosinec
-{% endcase %}
-{{ post.date | date: "%Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-
-      <p class="excerpt">{{ post.excerpt }}</p>
-
-      </li>
-    {% endfor %}
-  </ul>
+  [Schéma FS 3400x2200]({{ "/assets/bluepaper-1.png" | absolute_url }}) ![Náhled schématu FS]({{ "/assets/bluepaper-1.png" | absolute_url }})
 
   <p class="rss-subscribe"><a href="{{ "/feed.xml" | relative_url }}">RSS</a></p>
 

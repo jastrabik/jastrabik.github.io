@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Semináře
+title: Program
 permalink: /program/
 ---
 

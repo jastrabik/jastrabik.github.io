@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Členství
-permalink: /clenstvi/
+title: Výzkumy
+permalink: /vyzkumy/
 ---
 
-Členové spolku mohou navštěvovat společné semináře, účastnit se správy FS a obdrží pravidelné informace ze sociologie (zajímavé knihy, nabídky práce, informace o přednáškách, konferencích apod.).
-
-Pro žádost o členství pište na info@fakultnisociologie.cz
+1. *Spolky studentů sociologie v České republice* 
+2. *Jak číst první sociologický text* 
+3. *Vizuální prezentace sociologie* 
+4. *Jak studovat sociologii?* 
+5. *Dodatková informace* 

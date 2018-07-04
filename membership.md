@@ -4,7 +4,8 @@ title: Výzkumy
 permalink: /vyzkumy/
 ---
 
-1. *Spolky studentů sociologie v České republice* 
-2. *Jak číst první sociologický text* 
-3. *Vizuální prezentace sociologie* 
+Fakultní sociologie si pokládá sociologické otázky, které se týkají studia sociologie a jejich řešení mají přinést poznání o tom, v jaké okolnosti ovlivňují studium a zároveň, jak ho skrze toto sociologické poznání zlepšit.
+
+1. [*Jak číst první sociologický text?*](http://fakultnisociologie.cz/vyzkum/2018/07/02/jak-cist-sociologii.html)
+2. [*Jak studovat sociologii?*](http://fakultnisociologie.cz/organizace/2018/05/06/bluepaper-fs.html)
 

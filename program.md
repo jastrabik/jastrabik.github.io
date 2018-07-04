@@ -34,4 +34,4 @@ Záměrem je prosadit "fakultní sociologii" jako zvláštní specializaci "veř
 
 Protože studenti sociologie ve svém volném čase již mnoho z těchto projektů realizují, je naším záměrem je povýšit na důležitou součást oboru a podpořit jejich lokální rozvoj, ať už skrze sociologické vědění (např. poznatky o způsobech výuky sociologie a příbuzných oborů na středních školách), nebo finanční podporu a granty.
 
-   ![Náhled]({{ "/assets/doc2-2.jpg" | absolute_url }})
+![Náhled]({{ "/assets/doc2-2.jpg" | absolute_url }})

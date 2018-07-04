@@ -3,7 +3,6 @@ layout: post
 title:  "Jak číst první text"
 date:   2018-07-02 22:22:54 +0200
 categories: vyzkum
-author: Jiří Bureš
 ---
 
 ### Cíl

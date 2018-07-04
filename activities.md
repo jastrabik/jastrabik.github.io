@@ -24,7 +24,7 @@ Zodpovězení otázek tak vyžaduje propojit výklad sociologie se způsoby zvy�
 
 Jakkoliv si každý student musí najít odpovědí sám dle své preference a zkušenosti, tak tyto obecné principy jsou sdílitelné hodnoty, a tak referenční rámce pro kolektivní řešení. 
 
-![Náhled schématu FS]({{ "/assets/doc2-1.jpg" | absolute_url }})
+![Náhled]({{ "/assets/doc2-1.jpg" | absolute_url }})
 
 ## Fakultní sociologie jako organizace i sociologický směr
 
@@ -34,4 +34,4 @@ Záměrem je prosadit "fakultní sociologii" jako zvláštní specializaci "veř
 
 Protože studenti sociologie ve svém volném čase již mnoho z těchto projektů realizují, je naším záměrem je povýšit na důležitou součást oboru a podpořit jejich lokální rozvoj, ať už skrze sociologické vědění (např. poznatky o způsobech výuky sociologie a příbuzných oborů na středních školách), nebo finanční podporu a granty.
 
-![Náhled schématu FS]({{ "/assets/doc2-2.jpg" | absolute_url }})
+   ![Náhled]({{ "/assets/doc2-2.jpg" | absolute_url }})

@@ -10,17 +10,17 @@ Tento program definuje sociální problém, který nezisková organizace Fakultn
 
 Nedostatek motivace ke studiu sociologie, nebo nedostatek prostoru pro svébytné studium sociologie, vyplývá z charakteru současné světové sociologie a z jejího postavení v českém vzdělávacím systému. Studenti mají často pocit, že vyšší požadavky od studia sociologie jsou jen překážkami na cestě bez cíle. Složité příčiny těchto pocitů se projevují u studentů jako obtíže najít odpovědi na tři otázky - na něž nenacházejí odpovědi ani v pokročilému, či úspěšném studiu: 
 
-*1. Co je sociologie? 
-*2. K čemu je sociologie? 
-*3. Co budu se sociologií dělat? 
+* Co je sociologie? 
+* K čemu je sociologie? 
+* Co budu se sociologií dělat? 
 
 Obtížnost najít jasné odpovědi je pak příčinou odkladů řešení úkolů a nejistot o hodnotě investovaného času do studia, které vedou k demotivaci, prokrastinaci, či úplnému zakončení studia. Studium sociologie se stává prostředkem k získání titulu a jakkoliv její absolventi nachází zaměstnání, nachází často tak rozličná, že na nejistoty musí najít vlastní řešení, či nachází zaměstnání, která jsou zcela bez návaznosti na sociologické myšlení a vědění. Sociologie takto plní funkci ve vzdělávacím systému jako univerzální vysokoškolské vzdělání. A právě ani to často neplní úspěšně.
 
 Zodpovězení otázek tak vyžaduje propojit výklad sociologie se způsoby zvyšování motivace a snížení studijní zátěže. Navrženým řešením jsou tři způsoby odpovídání na zmíněné otázky: 
 
-*1. Sociologie je jednoduchá
-*2. Sociologie je zajímavá
-*3. Sociologie je užitečná 
+* Sociologie je jednoduchá
+* Sociologie je zajímavá
+* Sociologie je užitečná 
 
 Jakkoliv si každý student musí najít odpovědí sám dle své preference a zkušenosti, tak tyto obecné principy jsou sdílitelné hodnoty, a tak referenční rámce pro kolektivní řešení. 
 

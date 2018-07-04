@@ -4,24 +4,34 @@ title: Program
 permalink: /program/
 ---
 
-	
-Studenti sociologie často obtížně nacházejí odpovědi na tři otázky - 1. Co je sociologie?, 2. K čemu je sociologie?, 3. Co budeš se sociologií dělat? To nelze zdůvodnit individuální neznalostí a osobním selháním porozumět oboru, neboť často právě ani úspěšné studium nezvyšuji jistotu odpovědí. Příčinou nejistoty jsou přednosti sociologie – rozmanitost přístupů a předmětů zájmu. Avšak předat toto vědění vyžaduje specifické podmínky, kterým neodpovídají okolnosti současné masové univerzity. Důsledkem je pak odcizení studentů od oboru, frustrace a nízká motivace ke studiu. FS proto usiluje o sociologickou reflexi právě těchto sociálních podmínek její výuky, a tak o extenzi sociologie do každodenního života jejích studentů.
+Tento program definuje sociální problém, který nezisková organizace Fakultní sociologie, z. s. řeší a zároveň sociologický problém, který otevírá jako vlastní směr fakultní sociologie.
 
-Fakultní sociologie, z. s. (FS) je nevládní a nezisková organizace, která pomáhá studentům sociologie odpovědět na otázky, které mají o hodnotě a povaze oboru. A skrze tento záměr usiluje o obecný rozvoj oboru. Tento cíl nabývá dvou konkrétních podob, které vyplývají z postavení sociologie v českém vzdělávacím systému:
+## Tři otázky studentů sociologie
 
-Prvním cílem FS je zvýšit hodnotu studia sociologie. Osvojení sociologického poznání vyžaduje dialog a interaktivní výuku, kterou současné masové univerzitní vzdělání neumožňuje. Zároveň, FS usiluje o zlepšení obsahu společenských věd na středních školách, aby budoucí studenti měli dostatek informací o povaze sociologie a jejích příbuzných oborů. Také usiluje o zlepšení povědomí o hodnotě sociologického vědění právě u těch studentů, kteří ji studovat nebudou. FS tyto výzvy řeší jejich propojením.
+Nedostatek motivace ke studiu sociologie, nebo nedostatek prostoru pro svébytné studium sociologie, vyplývá z charakteru současné světové sociologie a z jejího postavení v českém vzdělávacím systému. Studenti mají často pocit, že vyšší požadavky od studia sociologie jsou jen překážkami na cestě bez cíle. Složité příčiny těchto pocitů se projevují u studentů jako obtíže najít odpovědi na tři otázky - na něž nenacházejí odpovědi ani v pokročilému, či úspěšném studiu: 
 
-V rámci seminářů FS se studenti učí vykládat sociologii a nacvičené dovednosti aplikují na interaktivních seminářích se středoškolskými žáky, či při přípravě materiálů pro učitele společenských věd. Takto se učí sociologii do hloubky skrze způsoby jejího veřejného a vlastního výkladu, tedy zjednodušováním. Díky tomu si noví studenti sociologie internalizují (přivlastňují) oborové vědění, aby mu dávali objektivní platnost a smysl skrze jeho sdílení. Protože pro dialog a interakce není prostor na univerzitní půdě, jsou rozvíjeny v prostoru mezi střední a vysokou školou.
+*1. Co je sociologie? 
+*2. K čemu je sociologie? 
+*3. Co budu se sociologií dělat? 
 
-Druhým cílem FS je zvýšit přehled o možnostech povolání po ukončení studia. Vzhledem k růstu absolventů oboru a neurčitelností povolání se sociologickým diplomem, se zvyšuje nejistota o správnosti volby tohoto oboru. Důsledkem je nízká motivace ke studiu a odcizení od disciplíny. Tyto nejistoty mohou vést až k sociální anomii, kdy ani úspěšné studium nevede k vyjasnění povahy povolání po absolvování a úloze oboru ve společnosti. Úzkosti řeší studenti individuálně mimo disciplínu a vedle studia. Často si vydělávají na život v neodborných profesích, které se stávají jejich hlavní povinností, škola a získání specifické odbornosti až druhou.
+Obtížnost najít jasné odpovědi je pak příčinou odkladů řešení úkolů a nejistot o hodnotě investovaného času do studia, které vedou k demotivaci, prokrastinaci, či úplnému zakončení studia. Studium sociologie se stává prostředkem k získání titulu a jakkoliv její absolventi nachází zaměstnání, nachází často tak rozličná, že na nejistoty musí najít vlastní řešení, či nachází zaměstnání, která jsou zcela bez návaznosti na sociologické myšlení a vědění. Sociologie takto plní funkci ve vzdělávacím systému jako univerzální vysokoškolské vzdělání. A právě ani to často neplní úspěšně.
 
-Proto FS kontaktuje samosprávy (např. starosty drobných obcí), firmy (např. technologické start-upy, aktéry v sociálním podnikání aj.) a neziskové organizace a poptává relevantní problémy, které pro ně studenti v rámci svých studentských prací můžou individuálně, či kolektivně řešit. FS tyto studentské drobné práce kontroluje a nabízí je klientům jako dodatkové informace . Vzhledem k modernizačnímu tlaku na pozorování sociálních podmínek ve všech ekonomických odvětvích, je poptávka po základním sociologickém poznání zvýšena. Studenti díky tomu můžou nabýt pestrých zkušeností a seznámit se s různými profesemi a sférami života.
+Zodpovězení otázek tak vyžaduje propojit výklad sociologie se způsoby zvyšování motivace a snížení studijní zátěže. Navrženým řešením jsou tři způsoby odpovídání na zmíněné otázky: 
 
-FS řeší pozorované problémy sociologie ve vzdělávacím systému skrze rozvoj autorských dovedností. Prostřednictvím autorství dochází k osobnímu rozvoji, který je však svázaný s nabýváním sociologické odbornosti. Proto jakkoliv jsou činnosti směřovány do volného času studentů, tak jsou zároveň prospěšné pro vlastní postup studiem. Tato jednota je umožněna praxí, kterou je svobodný pohyb – v prvním případě mezi střední a vysokou školou, společností a univerzitou. Právě v tom se zrcadlí sama sociologie – rozhled nad rozmanitostí jiných odborností, pohyb podél i napříč různými hranicemi ve společnosti.
+*1. Sociologie je jednoduchá
+*2. Sociologie je zajímavá
+*3. Sociologie je užitečná 
 
-FS je nejen odpovědí na specifické nejistoty studentského života, ale sama usiluje o obecný rozvoj sociologie – sociální problém i jeho řešení definuje sociologicky. Výzkumný program FS je označený stejnojmenně jako “fakultní sociologie” a navazuje, vedle sociologie sociologie, především na záměry veřejné sociologie. Ta může být definována jako schopnost říci něco publiku o něm samotném. Autorství pak znamená schopnost vystoupit a říci něco svým způsobem o publiku samotném. Na rozdíl od jiných věd se tak předmětem nestává “ono” a “oni”, ale “Vy”. Aby mohla FS rozvíjet dvě úrovně autorství, tak slouží jako platforma k oslovení dvou publik.
+Jakkoliv si každý student musí najít odpovědí sám dle své preference a zkušenosti, tak tyto obecné principy jsou sdílitelné hodnoty, a tak referenční rámce pro kolektivní řešení. 
 
-Prvním publikem jsou současní a budoucí studenti sociologie. Jejich sdíleným tématem je pak univerzita, jako idea, tak jako praxe. Druhým publikem je nejširší společnost, pro niž je nejobecnějším sdíleným tématem modernizace, konkrétně pak rozmanité krize v jejím důsledku. Záměrem FS je proto také vydávat časopis Krize, který slouží k popularizaci sociologie jako vědy nahlížející na rozmanité krize.
+![Náhled schématu FS]({{ "/assets/doc2-1.jpg" | absolute_url }})
 
-Všechny tyto činnosti - rozvoj autorství a schopnost identifikace vlastního sociologického tématu a zprostředkování publik k možnosti témata sdíle a autorství testovat, vede nakonec k otevření možnosti odpovědět na tři otázky každém studentu po svém.
+## Fakultní sociologie jako organizace i sociologický směr
 
+Fakultní sociologie, z. s. usiluje o řešení problémů současné sociologie a zároveň, či právě skrze zvýšení užitečnosti jejího studia. Členové FS usilují o obecné snížení nejistoty a zvýšení porozumění sociologii. FS zprostředkovává základní a jednoduché sociologické výzkumy, které mají mít dvojí efekt: 1. umožňují studentům už v průběhu studia "jednat sociologicky", 2. jako výledné produkty mají zlepšovat sociální podmínky, které ovlivňují studium sociologie. Tyto práce můžou být zároveň studentskými (závěrečnými) pracemi a dlouhodobým cílem je zajistit i jejich finanční odměnu. Dále pomáhá s usnadněním průběhu studia a s popularizací sociologie. 
+
+Záměrem je prosadit "fakultní sociologii" jako zvláštní specializaci "veřejné sociologie" a aplikaci "sociologie sociologie". Má být tedy řešením rozdálu mezi angažovanou sociologií, která reaguje na nerovnosti, či nejistoty vyplývající ze sociálních podmínek (v tomto případě masové univerzity, role sociologie v českém vzdělávacím systému) a zároveň teoretickou sociologií, jejímž záměrem je obracet se k sociologickému vědění a pracovat s ním (v tomto případě výuka sociologie, zjednodušování a zpřístupňvání sociologického poznání, či jeho kontakt s modernizačními trendy). 
+
+Protože studenti sociologie ve svém volném čase již mnoho z těchto projektů realizují, je naším záměrem je povýšit na důležitou součást oboru a podpořit jejich lokální rozvoj, ať už skrze sociologické vědění (např. poznatky o způsobech výuky sociologie a příbuzných oborů na středních školách), nebo finanční podporu a granty.
+
+![Náhled schématu FS]({{ "/assets/doc2-2.jpg" | absolute_url }})

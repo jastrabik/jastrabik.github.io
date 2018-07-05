@@ -7,6 +7,8 @@ description: Fakultní sociologie, z. s. pomáhá studentům sociologie a usiluj
 
 facebook_username: fakultnisociologie
 rss: rss
+google_analytics: UA-NNNNNNNN-N
+
 
 # Build settings
 markdown: kramdown

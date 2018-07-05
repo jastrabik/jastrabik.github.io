@@ -12,11 +12,10 @@ Fakultní sociologie, z. s. je vedená ve spolkovém rejstříku u Městského s
 
 ### Kontaktní osoba
 
-Mgr. Jiří Bureš
-Pec pod Sněžkou 120
-542 21 Pec pod Sněžkou
-### bures@fakultnisociologie.cz
-
+Mgr. Jiří Bureš</br>
+Pec pod Sněžkou 120</br>
+542 21 Pec pod Sněžkou</br>
+### bures@fakultnisociologie.cz</br>
 Mob. 721 538 250
 
 

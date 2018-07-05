@@ -8,12 +8,12 @@ categories: vyzkum
 ### Problém
 V úvodu své knihy _Myslet sociologicky_ se Zygmunt Bauman snaží seznámit neznalého čtenáře se sociologií. Zamýšlí se nad tím, kde je možné najít sociologické knihy v regálech knihovny a takto definuje obor vůči jiným, zřejmě čtenáři známějším. Demonstruje tak hned na prvních stranách jednu z charakteristik sociologického myšlení - neustanovuje obor vůči rozumově zdůvodněné soustavě věd a vědění, ale vychází z pozorování ve skutečnosti ustanoveného řádu vědění. 
 
-Podobně, ve svém _Úvodu do sociologie_ se Theodor Adorno obrací k začínajícím studentům sociologie se statistickou budoucího uplatnění absolventů na trhu práce, s trendy a vývojem této specifické populace. A opět, demonstruje - záměrně, pro sociology intuitivně - vědění o sociologii zahalené ve sdělení obrácené k nějaké skutečnosti - řádu oborů v knihovním systému, či zaměstnáních absolventů. 
+Podobně, ve svém _Úvodu do sociologie_ se Theodor Adorno obrací k začínajícím studentům sociologie se statistickou budoucího uplatnění absolventů na trhu práce, s trendy a vývojem této specifické populace. A opět, demonstruje - záměrně, pro sociology intuitivně - vědění o sociologii zahalené ve sdělení obrácené k nějaké skutečnosti. 
 
-Pokud by si tyto příklady vzali čtenáři seznamující se sociologií a aplikovali by je, pak by se mohli ptát, jak se odlišuje čtení prvních textů. A skutečně jednou z největších překážek na počátku studia je porozumění sociologickým textům. Další úrovní problému, z hlediska výuky čtení těchto textů, jsou odlišné znalosti samotných studentů.
+Oba autoři tak, vědomě, či již intuitivně, spojují prezentované vědění se skutečností - uspořádaní oborových hranic v knihovním systému, či zaměstnáních absolventů. Pokud by si tyto příklady vzali čtenáři seznamující se sociologií a aplikovali by je, pak by se mohli ptát, jak se odlišuje čtení prvních textů. A skutečně jednou z největších překážek na počátku studia je porozumění sociologickým textům. Další úrovní problému, z hlediska výuky čtení těchto textů, jsou odlišné znalosti samotných studentů.
 
 ### Způsob řešení
-Fakultní sociologie, z. s. usiluje o řešení tohoto sociologického problém a usiluje o vytvoření manuálu ke čtení odborných textů, který bude novým studentům a studentkám sociologie k dispozici. Zároveň však bude vytvořen právě ve spolupráci s nimi a všechny rady budou tak bezprostředně testován,y nebo integrovány do manuálu. 
+Fakultní sociologie, z. s. usiluje o řešení tohoto sociologického problém a usiluje o vytvoření manuálu ke čtení odborných textů, který bude novým studentům a studentkám sociologie k dispozici. Zároveň však bude vytvořen právě ve spolupráci s nimi a všechny rady budou tak bezprostředně testovány, nebo integrovány do manuálu. 
 
 Tento manuál bude komentovaným čtením úryvku z _Demokracie v Americe_ od Alexise de Tocquevilla. 
 

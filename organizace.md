@@ -4,6 +4,8 @@ title: Organizace
 permalink: /organizace/
 ---
 
+### Dokumenty a výroční zprávy
+
 Fakultní sociologie, z. s. je vedená ve spolkovém rejstříku u Městského soudu v Praze v oddílu L, vložce číslo 70600.
 
 [Stanovy spolku]({{ "/assets/stanovy spolku.pdf" | absolute_url }})

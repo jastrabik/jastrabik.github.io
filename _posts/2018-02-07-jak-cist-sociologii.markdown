@@ -4,7 +4,6 @@ title:  "Jak číst první text"
 date:   2018-07-02 22:22:54 +0200
 author: Jiří Bureš
 categories: vyzkum
-excerpt: 
 ---
 ### Problém
 V úvodu své knihy _Myslet sociologicky_ se Zygmunt Bauman snaží seznámit neznalého čtenáře se sociologií. Zamýšlí se nad tím, kde je možné najít sociologické knihy v regálech knihovny a takto definuje obor vůči jiným, zřejmě čtenáři známějším. Demonstruje tak hned na prvních stranách jednu z charakteristik sociologického myšlení - neustanovuje obor vůči rozumově zdůvodněné soustavě věd a vědění, ale vychází z pozorování ve skutečnosti ustanoveného řádu vědění. 

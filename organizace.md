@@ -4,7 +4,7 @@ title: Organizace
 permalink: /organizace/
 ---
 
-### Dokumenty a výroční zprávy
+### Dokumentace a zápisy se schůze spolku
 
 Fakultní sociologie, z. s. je vedená ve spolkovém rejstříku u Městského soudu v Praze v oddílu L, vložce číslo 70600.
 
@@ -12,7 +12,7 @@ Fakultní sociologie, z. s. je vedená ve spolkovém rejstříku u Městského s
 
 [Zápis z ustanovující schůze spolku]({{ "/assets/zápis z ustavující schůze spolku.pdf" | absolute_url }})
 
-### Kontaktní osoba
+### Kontaktní a zodpovědná osoba
 
 Mgr. Jiří Bureš</br>
 Pec pod Sněžkou 120</br>

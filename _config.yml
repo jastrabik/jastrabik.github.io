@@ -5,7 +5,8 @@ baseurl: ""
 url: "http://fakultnisociologie.cz" 
 description: Fakultní sociologie, z. s. pomáhá studentům sociologie a usiluje o zprostředkování možnost dělat sociologii, která má skutečné důsledky, již v průběhu studia.
 
-
+facebook_username: fakultnisociologie
+rss: rss
 
 # Build settings
 markdown: kramdown

@@ -3,7 +3,7 @@ layout: page
 title: Organizace
 permalink: /organizace/
 ---
-## Kontakt 
+### Kontakt 
 
 Mgr. Jiří Bureš
 Pec pod Sněžkou 120
@@ -11,7 +11,7 @@ Pec pod Sněžkou 120
 bures@fakultnisociologie.cz
 Mob. 721 538 250
 
-[Stanovy spolku]({{ "/assets/stanovy-spolku.pdf" | absolute_url }})
+[Stanovy spolku]({{ "/assets/stanovy spolku.pdf" | absolute_url }})
 
-[Zápis z ustanovující schůze spolku]({{ "/assets/zapis-z-ustavujici-schuze-spolku.pdf" | absolute_url }})
+[Zápis z ustanovující schůze spolku]({{ "/assets/zapis z ustavujici schuze spolku.pdf" | absolute_url }})
 

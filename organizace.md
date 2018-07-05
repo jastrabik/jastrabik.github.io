@@ -3,15 +3,19 @@ layout: page
 title: Organizace
 permalink: /organizace/
 ---
-### Kontakt 
+
+Fakultní sociologie, z. s. je vedená ve spolkovém rejstříku u Městského soudu v Praze v oddílu L, vložce číslo 70600.
+
+[Stanovy spolku]({{ "/assets/stanovy spolku.pdf" | absolute_url }})
+
+[Zápis z ustanovující schůze spolku]({{ "/assets/zápis z ustavující schůze spolku.pdf" | absolute_url }})
+
+### Kontaktní osoba
 
 Mgr. Jiří Bureš
 Pec pod Sněžkou 120
 542 21 Pec pod Sněžkou
-bures@fakultnisociologie.cz
+# bures@fakultnisociologie.cz
 Mob. 721 538 250
 
-[Stanovy spolku]({{ "/assets/stanovy spolku.pdf" | absolute_url }})
-
-[Zápis z ustanovující schůze spolku]({{ "/assets/zapis z ustavujici schuze spolku.pdf" | absolute_url }})
 

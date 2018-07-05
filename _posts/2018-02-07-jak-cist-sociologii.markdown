@@ -12,12 +12,13 @@ Podobně, ve svém _Úvodu do sociologie_ se Theodor Adorno obrací k začínaj�
 
 Pokud by si tyto příklady vzali čtenáři seznamující se sociologií a aplikovali by je, pak by se mohli ptát, jak se odlišuje čtení prvních textů. A skutečně jednou z největších překážek na počátku studia je porozumění sociologickým textům. Další úrovní problému, z hlediska výuky čtení těchto textů, jsou odlišné znalosti samotných studentů.
 
-### Cíl řešení
-Fakultní sociologie, z. s. usiluje proto o vytvoření manuálu ke čtení odborných textů, který bude novým studentům a studentkám sociologie k dispozici. Zároveň však bude vytvořen právě ve spolupráci s nimi a všechny rady budou tak bezprostředně testován,y nebo integrovány do manuálu. 
+### Způsob řešení
+Fakultní sociologie, z. s. usiluje o řešení tohoto sociologického problém a usiluje o vytvoření manuálu ke čtení odborných textů, který bude novým studentům a studentkám sociologie k dispozici. Zároveň však bude vytvořen právě ve spolupráci s nimi a všechny rady budou tak bezprostředně testován,y nebo integrovány do manuálu. 
 
 Tento manuál bude komentovaným čtením úryvku z _Demokracie v Americe_ od Alexise de Tocquevilla. 
 
-K manuálu tak přistupuje k problému výuky čtení textů skrze řešení v podobě představení "maxima", které je možné z určitého textu získat. Tato konkrétnost pak umožňuje vysvětlit i obecné metody psaní abstraktů a výpisků, rozumění textům, či obecným problémům (hermeneutika, pluralita interpretací atd.).
+Protože není možné vybrat naproto univerzální úvodní text, který by odpovídal na všechny odlišné znalosti čtenářů, tak je záměrem vytvořit úplné vysvětlení úryvku z Tocquevillova textu. K manuálu tak přistupuje k problému výuky čtení textů skrze řešení v podobě představení "maxima", které je možné z určitého textu získat. Tato konkrétnost pak umožňuje vysvětlit i obecné metody psaní abstraktů a výpisků, rozumění textům, či obecným problémům (hermeneutika, pluralita interpretací atd.).
+
 
 ### Obsah řešení 
 

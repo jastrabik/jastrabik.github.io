@@ -5,8 +5,6 @@ date:   2018-07-02 22:22:54 +0200
 categories: vyzkum
 ---
 
-### Cíl
-
 Jednou z největších překážek na počátku studia je porozumění odborným textům. Fakultní sociologie, z. s. usiluje proto o vytvoření manuálu ke čtení odborných textů, který bude novým studentům a studentkám sociologie k dispozici. Tento manuál bude komentovaným čtením úryvku z Demokracie v Americe od Alexise de Tocquevilla.
 
 K manuálu tak přistupuje k problému výuky čtení textů skrze řešení v podobě představení "maxima", které je možné z určitého textu získat. Tato konkrétnost pak umožňuje vysvětlit i obecné metody psaní abstraktů a výpisků, rozumění textům, či obecným problémům (hermeneutika, pluralita interpretací atd.).

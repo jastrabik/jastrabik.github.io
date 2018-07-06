@@ -13,7 +13,6 @@ _Fakultní sociologie, z.s. je nevládní a nezisková organizace, která vznikl
 
 
 ### Dobrovolníci
-
 Dobrovolníci můžou být: 
   
 **»** Studenti sociologie     
@@ -30,10 +29,9 @@ Záměrem dobrovolných aktivit je vytvářet nové sociologické poznání, jeh
    **»** Sledujte náš [facebook](https://www.facebook.com/fakultnisociologie/) 
 
 ### Dárci   
-
 Finanční prostředky pokrývají náklady spojené s distribucí materiálů vypracovanými studenty, jdou na podporu studentských výzkumů a projektů. Přejem si rozšiřovat výsledné publikace zdarma a v duchu [otevřené vědy](https://en.wikipedia.org/wiki/Open_science) nabízet výsledné sdílet všechny získaný poznatky. Z toho důvodu bude záměrem dodržovat standardy a postupy doporučené neziskovou organizací [Open science](https://cos.io/).
 
-Naším cílem je vlastní kancelář, či „sociolab“, kde bychom mohli uskutečňovat vlastní semináře pro studenty, či širokou veřejnost. Věříme, že podpora studentů sociologie je základem k budování otevřené a kritické společnosti, zároveň prohlubování jejich praktických schopností. Věříme, že právě podpora studentů zprostředkovaný společenskou vědou k [otevřené společnosti](https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%A1_spole%C4%8Dnost).   
+Naším cílem je vlastní kancelář, kde bychom mohli uskutečňovat vlastní semináře pro studenty, či širokou veřejnost. Věříme, že podpora studentů sociologie je základem k budování otevřené a kritické společnosti, zároveň prohlubování jejich praktických schopností. Věříme, že právě podpora studentů zprostředkovaný společenskou vědou k [otevřené společnosti](https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%A1_spole%C4%8Dnost).   
 
 Pokud věříte v rozvoj moderní společenské vědy, aby studenti mohli pracovat a věnovat se zcela rozvoji vlastních dovedností, více četli, více psali a publikovali.  
 
@@ -42,7 +40,6 @@ Pokud věříte v rozvoj moderní společenské vědy, aby studenti mohli pracov
 
 
 ### Přímá podpora studentů a studentských spolků    
-
 Pokud máte vlastní projekt a potřebujete pomoci s jeho akcelerací. Věříme, že studenti sociologie jsou aktivní již dost – pouze v jejich nabitém čase, kde střídají osobní život, práci a studium, k tomu další příležitosti a nejistoty vlastní budoucnosti. Snažíme se tuto mnohost snížit a podporovat ve studiu, či snížit pracovní nasazení. Usilujeme o podporu a sociologické poznání, které může akcelerovat studentské aktivity.     
 
 Přejeme si vytvořit alternativní stipendia pro aktivní studenty, kteří realizují vlastní způsoby „fakultní sociologie“ a přispívají rozvoji studentské identity.     

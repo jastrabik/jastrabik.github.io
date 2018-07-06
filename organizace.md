@@ -9,17 +9,18 @@ _Fakultní sociologie, z.s. je nevládní a nezisková organizace založená stu
 2. [Dárci](#dárci)
 3. [Přímá podpora studentů a studentských spolků](#přímá-podpora-studentů-a-studentských-spolků) 
 4. [Členství](#Členství)   
-5. [Dokumentace a zápisy se schůzí rady spolku](#dokumentace-a-zápisy-ze-schůzí-rady-spolku)
+5. [Dokumentace a zápisy ze schůzí rady spolku](#dokumentace-a-zápisy-ze-schůzí-rady-spolku)
 
 
 ### Dobrovolníci
 
-Dobrovolníci můžou být:    
-    **»** Studenti sociologie     
-    **»**	Absolventi sociologie    
-    **»**	Vědečtí pracovníci   
-    **»**	Studenti jiných oborů   
-    **»**	Učitelé společenských věd     
+Dobrovolníci můžou být: 
+  
+**»** Studenti sociologie     
+**»**	Absolventi sociologie    
+**»**	Vědečtí pracovníci   
+**»**	Studenti jiných oborů   
+**»**	Učitelé společenských věd     
   
 Vytváříme společenství, které důvěřuje v budoucnost sociologie, společenských a humanitních věd. Věříme v jejich užitečnost i nezaměnitelnou jedinečnost. Budujeme pozitivní výklady sociologie a usilujeme o řešení studentské anomie (tj. nejistota, odcizení) a budujeme sebevědomou identitu, kteoru potřebují studenti vědy o člověku a společnosti.  
 
@@ -39,6 +40,7 @@ Pokud věříte v rozvoj moderní společenské vědy, aby studenti mohli pracov
 
 
 ### Přímá podpora studentů a studentských spolků    
+
 
 Pokud máte vlastní projekt a potřebujete pomoci s jeho akcelerací. Věříme, že studenti sociologie jsou aktivní již dost – pouze v jejich nabitém čase, kde střídají osobní život, práci a studium, k tomu další příležitosti a nejistoty vlastní budoucnosti. Snažíme se tuto mnohost snížit a podporovat ve studiu, či snížit pracovní nasazení. Usilujeme o podporu a sociologické poznání, které může akcelerovat studentské aktivity.     
 

@@ -3,7 +3,7 @@ layout: page
 title: Organizace
 permalink: /organizace/
 ---
-### Pro dobrovolníky
+### Dobrovolníci
 
 Dobrovolníci můžou být:    
     **»** Studenti sociologie     
@@ -16,10 +16,10 @@ Vytváříme společenství, které důvěřuje v budoucnost sociologie, společ
 
 Záměrem dobrovolných aktivit je vytvářet nové sociologické poznání, jehož důsledky je možné pozorovat. Dobrovolníci sdílí své zušenosti, radí novým studentům. 
 
-  **»** Přihlaste se k některému z vyhlášených [výzkumů](http://fakultnisociologie.cz/vyzkumy/), nebo pište na info@fakultnisociologie.cz
+  **»** Přihlaste se k některému z vyhlášených [výzkumů](http://fakultnisociologie.cz/vyzkumy/), nebo pište na info@fakultnisociologie.cz     
    **»** Sledujte náš [facebook](https://www.facebook.com/fakultnisociologie/) 
 
-### Pro dárce    
+### Dárci   
 
 Finanční prostředky pokrývají náklady spojené s distribucí materiálů vypracovanými studenty, jdou na podporu studentských výzkumů a projektů. Naším cílem je vlastní kancelář, či „sociolab“, kde bychom mohli uskutečňovat vlastní semináře pro studenty, či širokou veřejnost. Věříme, že podpora studentů sociologie je základem k budování otevřené a kritické společnosti, zároveň prohlubování jejich praktických schopností.   
 
@@ -29,17 +29,16 @@ Pokud věříte v rozvoj moderní společenské vědy, aby studenti mohli pracov
 **»**	E-mail: darci@fakultnisociologie.cz
 
 
-### Potřebuji pomoc     
+### Přímá podpora studentů a studentských spolků    
 
 Pokud máte vlastní projekt a potřebujete pomoci s jeho akcelerací. Věříme, že studenti sociologie jsou aktivní již dost – pouze v jejich nabitém čase, kde střídají osobní život, práci a studium, k tomu další příležitosti a nejistoty vlastní budoucnosti. Snažíme se tuto mnohost snížit a podporovat ve studiu, či snížit pracovní nasazení. Usilujeme o podporu a sociologické poznání, které může akcelerovat studentské aktivity.     
 
 Přejeme si vytvořit alternativní stipendia pro aktivní studenty, kteří realizují vlastní způsoby „fakultní sociologie“ a přispívají rozvoji studentské identity.     
 
 **»** E-mail: pomoc@fakultnisociologie.cz    
-
 **»**	Zodpovědná osoba:   
 
-### Pro členy    
+### Členství      
 Jako členy spolku bychom rádi viděli ty, kteří chtějí podporovat rozvoj Fakultní sociologie, a tak i budoucích možností sociologie. Rádi bychom zde uvítáme, pokud věříte v program fakultní sociologie a přejete si být více v dění. Členské příspěvky činí 400 Kč na rok.   
 
 Členové jsou zváni na zasedání rady spolku (dvakrát ročně, září 2018, červen 2019)) a dostávají každé dva měsíce newsletter (od září 2018), který seznamuje s činností Fakultní sociologie, či o všem, co pozoruje.     

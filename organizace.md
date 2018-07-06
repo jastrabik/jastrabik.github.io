@@ -8,7 +8,7 @@ _Fakultní sociologie, z.s. je nevládní a nezisková organizace založená stu
 1. [Dobrovolníci](#dobrovolníci)
 2. [Dárci](#dárci)
 3. [Přímá podpora studentů a studentských spolků](#přímá-podpora-studentů-a-studentských-spolků) 
-4. [Členství](#Členství)   
+4. [Členství](#členství)   
 5. [Dokumentace a zápisy ze schůzí rady spolku](#dokumentace-a-zápisy-ze-schůzí-rady-spolku)
 
 

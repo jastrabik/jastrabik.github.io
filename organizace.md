@@ -3,7 +3,7 @@ layout: page
 title: Organizace
 permalink: /organizace/
 ---
-_Fakultní sociologie, z.s. je nevládní a nezisková organizace, která usiluje o spolupráci napříč univerzitami a obory v České republice._
+_Fakultní sociologie, z.s. je nevládní a nezisková organizace, která vznikla v červnu roku 2018 a usiluje o spolupráci napříč univerzitami a obory v České republice._
 
 1. [Dobrovolníci](#dobrovolníci)
 2. [Dárci](#dárci)

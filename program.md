@@ -26,7 +26,7 @@ Jakkoliv si každý student musí najít odpovědí sám dle své preference a z
 
 ![Náhled]({{ "/assets/doc2-1.jpg" | absolute_url }})
 
-## Fakultní sociologie jako organizace i sociologický směr
+## Fakultní sociologie sociologický směr
 
 Fakultní sociologie, z. s. usiluje o řešení problémů současné sociologie a zároveň, či právě skrze zvýšení užitečnosti jejího studia. Členové FS usilují o obecné snížení nejistoty a zvýšení porozumění sociologii. FS zprostředkovává základní a jednoduché sociologické výzkumy, které mají mít dvojí efekt: 1. umožňují studentům už v průběhu studia "jednat sociologicky", 2. jako výledné produkty mají zlepšovat sociální podmínky, které ovlivňují studium sociologie. Tyto práce můžou být zároveň studentskými (závěrečnými) pracemi a dlouhodobým cílem je zajistit i jejich finanční odměnu. Dále pomáhá s usnadněním průběhu studia a s popularizací sociologie. 
 

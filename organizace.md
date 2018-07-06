@@ -31,7 +31,7 @@ Záměrem dobrovolných aktivit je vytvářet nové sociologické poznání, jeh
 
 ### Dárci   
 
-Finanční prostředky pokrývají náklady spojené s distribucí materiálů vypracovanými studenty, jdou na podporu studentských výzkumů a projektů. Přejem si rozšiřovat výsledné publikace zdarma a v duchu [open science](https://en.wikipedia.org/wiki/Open_science) nabízet výsledné sdílet všechny získaný poznatky. Z toho důvodu bude záměrem dodržovat standardy a postupy doporučené neziskovou organizací [Open science](https://en.wikipedia.org/wiki/Open_science).
+Finanční prostředky pokrývají náklady spojené s distribucí materiálů vypracovanými studenty, jdou na podporu studentských výzkumů a projektů. Přejem si rozšiřovat výsledné publikace zdarma a v duchu [open science](https://en.wikipedia.org/wiki/Open_science) nabízet výsledné sdílet všechny získaný poznatky. Z toho důvodu bude záměrem dodržovat standardy a postupy doporučené neziskovou organizací [Open science](https://cos.io/).
 
 Naším cílem je vlastní kancelář, či „sociolab“, kde bychom mohli uskutečňovat vlastní semináře pro studenty, či širokou veřejnost. Věříme, že podpora studentů sociologie je základem k budování otevřené a kritické společnosti, zároveň prohlubování jejich praktických schopností. Věříme, že právě podpora studentů zprostředkovaný společenskou vědou k [otevřené společnosti](https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%A1_spole%C4%8Dnost).   
 

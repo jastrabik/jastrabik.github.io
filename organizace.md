@@ -3,6 +3,15 @@ layout: page
 title: Organizace
 permalink: /organizace/
 ---
+_Fakultní sociologie, z.s. je nevládní a nezisková organizace založená studenty FSV UK. Není ale studentským spolkem spojeným s jednou univerzitou, ale usiluje o spolupráci napříč univerzitami v České republice._
+
+1. [Dobrovolníci](#Dobrovolníci)
+2. [Dárci](#Dárci)
+3. [Přímá podpora studentů a studentských spolků](#Přímá podpora studentů a studentských spolků) 
+4. [Členství](#Členství)   
+5. [Dokumentace a zápisy se schůzí rady spolku](#Dokumentace a zápisy se schůzí rady spolku)
+
+
 ### Dobrovolníci
 
 Dobrovolníci můžou být:    

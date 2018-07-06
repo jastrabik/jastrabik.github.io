@@ -5,11 +5,11 @@ permalink: /organizace/
 ---
 _Fakultní sociologie, z.s. je nevládní a nezisková organizace založená studenty FSV UK. Není ale studentským spolkem spojeným s jednou univerzitou, ale usiluje o spolupráci napříč univerzitami v České republice._
 
-1. [Dobrovolníci](#Dobrovolníci)
-2. [Dárci](#Dárci)
-3. [Přímá podpora studentů a studentských spolků](#Přímá podpora studentů a studentských spolků) 
+1. [Dobrovolníci](#dobrovolníci)
+2. [Dárci](#dárci)
+3. [Přímá podpora studentů a studentských spolků](#přímá-podpora-studentů-a-studentských-spolků) 
 4. [Členství](#Členství)   
-5. [Dokumentace a zápisy se schůzí rady spolku](#Dokumentace a zápisy se schůzí rady spolku)
+5. [Dokumentace a zápisy se schůzí rady spolku](#dokumentace-a-zápisy-ze-schůzí-rady-spolku)
 
 
 ### Dobrovolníci
@@ -56,7 +56,7 @@ Jako členy spolku bychom rádi viděli ty, kteří chtějí podporovat rozvoj F
 **»** E-mail: info@fakultnisociologie.cz     
 
 
-### Dokumentace a zápisy se schůzí rady spolku
+### Dokumentace a zápisy ze schůzí rady spolku
 
 Fakultní sociologie, z. s. je vedená ve spolkovém rejstříku u Městského soudu v Praze v oddílu L, vložce číslo 70600.
 

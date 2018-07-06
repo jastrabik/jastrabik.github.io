@@ -3,7 +3,7 @@ layout: page
 title: Organizace
 permalink: /organizace/
 ---
-_Fakultní sociologie, z.s. je nevládní a nezisková organizace založená studenty FSV UK. Není ale studentským spolkem spojeným s jednou univerzitou, ale usiluje o spolupráci napříč univerzitami v České republice._
+_Fakultní sociologie, z.s. je nevládní a nezisková organizace, která usiluje o spolupráci napříč univerzitami a obory v České republice._
 
 1. [Dobrovolníci](#dobrovolníci)
 2. [Dárci](#dárci)
@@ -31,16 +31,17 @@ Záměrem dobrovolných aktivit je vytvářet nové sociologické poznání, jeh
 
 ### Dárci   
 
-Finanční prostředky pokrývají náklady spojené s distribucí materiálů vypracovanými studenty, jdou na podporu studentských výzkumů a projektů. Naším cílem je vlastní kancelář, či „sociolab“, kde bychom mohli uskutečňovat vlastní semináře pro studenty, či širokou veřejnost. Věříme, že podpora studentů sociologie je základem k budování otevřené a kritické společnosti, zároveň prohlubování jejich praktických schopností.   
+Finanční prostředky pokrývají náklady spojené s distribucí materiálů vypracovanými studenty, jdou na podporu studentských výzkumů a projektů. Přejem si rozšiřovat výsledné publikace zdarma a v duchu [open science](https://en.wikipedia.org/wiki/Open_science) nabízet výsledné sdílet všechny získaný poznatky. Z toho důvodu bude záměrem dodržovat standardy a postupy doporučené neziskovou organizací [Open science](https://en.wikipedia.org/wiki/Open_science).
+
+Naším cílem je vlastní kancelář, či „sociolab“, kde bychom mohli uskutečňovat vlastní semináře pro studenty, či širokou veřejnost. Věříme, že podpora studentů sociologie je základem k budování otevřené a kritické společnosti, zároveň prohlubování jejich praktických schopností. Věříme, že právě podpora studentů zprostředkovaný společenskou vědou k [otevřené společnosti](https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%A1_spole%C4%8Dnost).   
 
 Pokud věříte v rozvoj moderní společenské vědy, aby studenti mohli pracovat a věnovat se zcela rozvoji vlastních dovedností, více četli, více psali a publikovali.  
 
-**»**	Transparentní účet 
+**»**	Transparentní účet      
 **»**	E-mail: darci@fakultnisociologie.cz
 
 
 ### Přímá podpora studentů a studentských spolků    
-
 
 Pokud máte vlastní projekt a potřebujete pomoci s jeho akcelerací. Věříme, že studenti sociologie jsou aktivní již dost – pouze v jejich nabitém čase, kde střídají osobní život, práci a studium, k tomu další příležitosti a nejistoty vlastní budoucnosti. Snažíme se tuto mnohost snížit a podporovat ve studiu, či snížit pracovní nasazení. Usilujeme o podporu a sociologické poznání, které může akcelerovat studentské aktivity.     
 

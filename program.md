@@ -4,7 +4,7 @@ title: Program
 permalink: /program/
 ---
 
-_Tento program definuje sociální problém, který nezisková organizace Fakultní sociologie, z. s. řeší a zároveň sociologický problém, který otevírá jako vlastní směr fakultní sociologie._
+_Tento program definuje sociální problém, o jehož řešení nezisková organizace Fakultní sociologie, z. s. usiluje a zároveň sociologický problém, který otevírá jako vlastní směr fakultní sociologie a prostor pro tvorbu sociologického poznání, či úpravu toho stávající (nové výklady, učební pomůcky atd.)._
 
 ## Tři otázky studentů sociologie
 

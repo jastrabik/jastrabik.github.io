@@ -14,6 +14,12 @@ Oba autoři tak, vědomě, či již intuitivně, spojují prezentované věděn�
 
 Vychází totiž z toho první problém fakultní sociologie - jak studenti čtou první sociologický text. A ihned můžeme říci, že ho čtou těžce, můžou mít dokonce pocit, že čtou text v cizím jazyce, že je příliš složitý. Mohli bychom e pokusit podat každý své tipy a dobře míněné rady, jak takový text číst a mnoho sociologů, tak skutečně učinilo. Může se totiž zdát, že jde o pedagogický problém, který je možné řešit lepší výukou četby takových textů. Avša - bez toho, aniž by se pravdivost tohoto trvzrení jakkoliv ponižovala -, je zřejmé, že jde o zajímavý problém, který je přístupný samotné sociologii.  
 
+V návaznosti na jednoduchý Bauman-Adornův model reflexe aplikovaný na problém fakultní sociologie: 
+Jaké jsou nedostatky v systému poznání – co vše studenti četli, před tím, než začali číst sociologii. Jaké jsou knihovny, v nichž se mají nyní nově umístit sociologické knížky? 
+
+Jaké jsou způsoby toho, co se učí na střední škole? Jaké jsou způsoby uvažování a čtení textů, práce s učebnicemi, které vytváří překážky pro aktivní čtení a interpretace. 
+
+Naším problémem je tak 1. vysvětlit, jaké jsou příčiny obtíží; 2. vyřešit je, aniž by nedošlo k falešnému snížení zátěže skrze zvýšení časové náročnosti, nebo faktickému zvýšení, pokud dochází k zobecnění rad, jak číst a rozumět sociologii. 
 
 ### Způsob řešení
 Fakultní sociologie, z. s. usiluje o řešení tohoto sociologického problém a usiluje o vytvoření manuálu ke čtení odborných textů, který bude novým studentům a studentkám sociologie k dispozici. Zároveň však bude vytvořen právě ve spolupráci s nimi a všechny rady budou tak bezprostředně testovány, nebo integrovány do manuálu. 

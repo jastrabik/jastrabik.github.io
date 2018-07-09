@@ -58,7 +58,7 @@ Jako členy spolku bychom rádi viděli ty, kteří chtějí podporovat rozvoj F
 
 ### Dokumentace a zápisy ze schůzí rady spolku
 
-Fakultní sociologie, z. s. je vedená ve spolkovém rejstříku u Městského soudu v Praze v oddílu L, vložce číslo 70600.
+Fakultní sociologie, z. s. je vedená ve spolkovém rejstříku u Městského soudu v Praze v oddílu L, vložce číslo 70600, ičo 07263775.
 
 [Stanovy spolku]({{ "/assets/stanovy spolku.pdf" | absolute_url }})
 

@@ -10,7 +10,10 @@ V úvodu své knihy _Myslet sociologicky_ se Zygmunt Bauman snaží seznámit ne
 
 Podobně, ve svém _Úvodu do sociologie_ se Theodor Adorno obrací k začínajícím studentům sociologie se statistickou budoucího uplatnění absolventů na trhu práce, s trendy a vývojem této specifické populace. A opět, demonstruje - záměrně, pro sociology intuitivně - vědění o sociologii zahalené ve sdělení obrácené k nějaké skutečnosti. 
 
-Oba autoři tak, vědomě, či již intuitivně, spojují prezentované vědění se skutečností - uspořádaní oborových hranic v knihovním systému, či zaměstnáních absolventů. Pokud by si tyto příklady vzali čtenáři seznamující se sociologií a aplikovali by je, pak by se mohli ptát, jak se odlišuje čtení prvních textů. A skutečně jednou z největších překážek na počátku studia je porozumění sociologickým textům. Další úrovní problému, z hlediska výuky čtení těchto textů, jsou odlišné znalosti samotných studentů.
+Oba autoři tak, vědomě, či již intuitivně, spojují prezentované vědění se skutečností - uspořádaní oborových hranic v knihovním systému, či zaměstnáních absolventů. Jedním z příznaků sociologie je to, že je společenskou vědou, která promlouvá k lidem, kterých se toto poznání přímo dotýká. Tolik k základnímu vysvětlení, co bude sociologicky problematizováno. 
+
+Vychází totiž z toho první problém fakultní sociologie - jak studenti čtou první sociologický text. A ihned můžeme říci, že ho čtou těžce, můžou mít dokonce pocit, že čtou text v cizím jazyce, že je příliš složitý. Mohli bychom e pokusit podat každý své tipy a dobře míněné rady, jak takový text číst a mnoho sociologů, tak skutečně učinilo. Může se totiž zdát, že jde o pedagogický problém, který je možné řešit lepší výukou četby takových textů. Avša - bez toho, aniž by se pravdivost tohoto trvzrení jakkoliv ponižovala -, je zřejmé, že jde o zajímavý problém, který je přístupný samotné sociologii.  
+
 
 ### Způsob řešení
 Fakultní sociologie, z. s. usiluje o řešení tohoto sociologického problém a usiluje o vytvoření manuálu ke čtení odborných textů, který bude novým studentům a studentkám sociologie k dispozici. Zároveň však bude vytvořen právě ve spolupráci s nimi a všechny rady budou tak bezprostředně testovány, nebo integrovány do manuálu. 

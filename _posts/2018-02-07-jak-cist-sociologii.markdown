@@ -22,6 +22,21 @@ Jaké jsou způsoby toho, co se učí na střední škole? Jaké jsou způsoby u
 Naším problémem je tak 1. vysvětlit, jaké jsou příčiny obtíží; 2. vyřešit je, aniž by nedošlo k falešnému snížení zátěže skrze zvýšení časové náročnosti, nebo faktickému zvýšení, pokud dochází k zobecnění rad, jak číst a rozumět sociologii. 
 
 ### Způsob řešení
+
+Z toho důvodu není možné ideální řešení, které by bylo jednak extenzivní a longitudinální studie myšlení a vědomostí středoškolských studentů a přizpůsobení interpretací a výkladů sociologie vůči této skutečnosti. Je nutné snížit a na místo univerzality je zvolit klíčový problém.
+
+Na místo prozkoumání toho, co studenti čtou a ví, postačí prozkoumání toho, jak čtou a snaží se poznávat sociologické texty. 
+Na míst snahy o kompletní manuál pro všechny budoucí četby, postačí výklad jediného textu a s jednoduchým cílem – vyložit jej zcela a tento výklad krok po kroku vysvětlit.
+
+A to vše uskutečněné spolu se studenty, kteří můžou dát zpětnou vazbu výsledný text v procesu jejího utváření a být tak spoluautory. 
+
+Tímto textem je zvolený text Alexise de Tocquevilla Demokracie v Americe, kapitola první Rovnost a svoboda. Výsledné vysvětlení může být zpracováno takovým způsobem, aby bylo srozumitelné i studentům středních škol, a tak první text pro studenty seznamující se sociologickým myšlením a věděním, může být obecným textem pro seznámení s některými výklady a myšlením o demokracii. 
+
+Běžný sociologický výzkum, jenž by usilovat o zodpovězení otázek P1 a P2 může být řešen mnohem úsporněji a efektivněji, pokud 1. jsou ti, kterým je výsledný text směřován, účastni jeho vytváření – 2. tento výsledek má samo-obsažný, a tak bez nutné předchozí znalosti jiné sociologie. Fakultní sociologie tak testuje odlišné dělání sociologie a zkouší poznatky z vědních studií a více interaktivních postupů při výzkumu jednání a vědění.
+
+Student, který si otevře komentovaný výklad kapitoly uvidí, co se skrývá za textem, co podobného může hledat v jiných textech, věnuje-li jim čas a trpělivost. 
+
+
 Fakultní sociologie, z. s. usiluje o řešení tohoto sociologického problém a usiluje o vytvoření manuálu ke čtení odborných textů, který bude novým studentům a studentkám sociologie k dispozici. Zároveň však bude vytvořen právě ve spolupráci s nimi a všechny rady budou tak bezprostředně testovány, nebo integrovány do manuálu. 
 
 Tento manuál bude komentovaným čtením úryvku z _Demokracie v Americe_ od Alexise de Tocquevilla. 

@@ -42,7 +42,7 @@ Výsledné vysvětlení může být zpracováno takovým způsobem, aby bylo sro
 
 Na rozdíl od běžného sociologický výzkum, jenž by usilovat o zodpovězení může být řešen mnohem úsporněji a efektivněji, pokud    
     **1. jsou ti, kterým je výsledný text směřován, účastni jeho vytváření,**   
-    **2. tento výsledek je samo-obsažný, a tak bez nutné předchozí znalosti jiné sociologie přístupný komukoliv.**
+    **2. výsledek je samo-obsažný, a tak bez nutné předchozí znalosti sociologie je přístupný komukoliv.**
     
 Student, který si otevře komentovaný výklad kapitoly uvidí, co se skrývá za textem, co podobného může hledat v jiných textech, věnuje-li jim čas a trpělivost. Studenti, kteří se na textu budou podílet, můžou být motivováni pomoci mladším ročníkům, vyzkoušet si sociologickou analýzu textů, interpretace, či přispět myšlení o demokracii a zpřístupnit text, který je důležitou reflexí na toto téma. 
 
@@ -62,14 +62,14 @@ Skrze to nabídnout obecný návod, jak se s texty vypořádat:
 * Jak rozumět textům?
 * Jak psát odborné texty? 
 
-To znamená: Manuál ke čtení úryvku od Alexise de Tocquevilla 
+To znamená: Výsledkem je "manuál" ke čtení úryvku od Alexise de Tocquevilla 
 * Samotný text má cca 15 stran 
 * Dodat o další 15-30 strany vysvětlení, schémat, glosářů, příkladů atd. 
-* Výsledkem je malý cca 30 -50 stránkový paperback, něco jako “první pomoc při čtení textů”
+* Výsledkem je malý cca 30 -50 stránkový paperback
 
 ### Postup řešení
 
-Projekt je realizován kolektivně, v případě zájmu pište na e-mail alex@fakultnisociologie.cz. Pomoc probíhá v podobě čtení Tocquevillových textů a jeho současných interpretací, dodání zpětné vazby a korektury. Všichni, kdo se podílí na spolupráci bude přiznáno autorství ve výsledné publikaci. 
+Projekt je realizován kolektivně, v případě zájmu pište na e-mail alex@fakultnisociologie.cz. Účast na výzkumu probíhá v podobě čtení Tocquevillových textů a jeho současných interpretací, dodání zpětné vazby, editace, korektury atd. Všem, kdo se podílí na spolupráci, bude přiznáno autorství ve výsledné publikaci. 
 
 Hledáme především tři úrovně spolupráce:
 

@@ -73,15 +73,15 @@ Projekt je realizován kolektivně, v případě zájmu pište na e-mail alex@fa
 
 Hledáme především tři úrovně spolupráce:
 
-**1.	Co vše bylo o A.T. napsáno v Česku a v zahraničí?  - Vypracování rešerše, případně výpisků atd.**
+*1.	Co vše bylo o A.T. napsáno v Česku a v zahraničí?  - Vypracování rešerše, případně výpisků atd.*
 
-**2.	Jak studenti píší abstrakty a komentáře o A. T.?** 
+*2.	Jak studenti píší abstrakty a komentáře o A. T.?*
 *	Sběr materiálů od studentů; průzkum, co si z textu zapamatovali 
 *	Sběr různých interpretací
  
-**3.	Co vše A. T. napsal? - Vypracování rešerše, případně výpisků atd.**
+*3.	Co vše A. T. napsal? - Vypracování rešerše, případně výpisků atd.*
 
-**4.	Editování, četba samotného úryvku a práce na výsledné interpretaci.**
+*4.	Editování, četba samotného úryvku a práce na výsledné interpretaci.*
 *	Komentování manuálu (Je to něco, co byste chtěli mít v ruce, když jste začínali studovat?)
 *	Přispění vlastními postřehy
 

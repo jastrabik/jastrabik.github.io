@@ -40,9 +40,9 @@ Prvním textem pro toto experimentální řešení je zvolen patnáctistránkov�
 
 Výsledné vysvětlení může být zpracováno takovým způsobem, aby bylo srozumitelné i studentům středních škol, a tak první text pro studenty seznamující se sociologickým myšlením a věděním, může být obecným textem pro seznámení s některými výklady a myšlením o demokracii. Toto je důležitá podmínka fakultní sociologie – cílem je orientace na studenty, avšak produkt by měl mít obecnou hodnotu. 
 
-Na rozdíl od běžného sociologický výzkum, jenž by usilovat o zodpovězení může být řešen mnohem úsporněji a efektivněji, pokud    
-    **1. jsou ti, kterým je výsledný text směřován, účastni jeho vytváření,**   
-    **2. výsledek je samo-obsažný, a tak bez nutné předchozí znalosti sociologie je přístupný komukoliv.**
+Na rozdíl od běžného sociologický výzkum, jenž by usilovat o zodpovězení může být řešen mnohem úsporněji a efektivněji, pokud   
+**1. jsou ti, kterým je výsledný text směřován, účastni jeho vytváření,**      
+**2. výsledek je samo-obsažný, a tak bez nutné předchozí znalosti sociologie je přístupný komukoliv.**   
     
 Student, který si otevře komentovaný výklad kapitoly uvidí, co se skrývá za textem, co podobného může hledat v jiných textech, věnuje-li jim čas a trpělivost. Studenti, kteří se na textu budou podílet, můžou být motivováni pomoci mladším ročníkům, vyzkoušet si sociologickou analýzu textů, interpretace, či přispět myšlení o demokracii a zpřístupnit text, který je důležitou reflexí na toto téma. 
 
@@ -76,7 +76,7 @@ Hledáme především tři úrovně spolupráce:
 **1.	Co vše bylo o A.T. napsáno v Česku a v zahraničí?  - Vypracování rešerše, případně výpisků atd.**
 
 **2.	Jak studenti píší abstrakty a komentáře o A. T.?** 
-*	Sběr materiálů od studentů, zjištění, co si z text zapamatovali 
+*	Sběr materiálů od studentů; průzkum, co si z textu zapamatovali 
 *	Sběr různých interpretací
  
 **3.	Co vše A. T. napsal? - Vypracování rešerše, případně výpisků atd.**

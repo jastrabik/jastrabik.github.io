@@ -18,7 +18,7 @@ A ihned můžeme říci, že se studentům čtou těžce. Pokud se jich zeptáte
 
 K tomu je možné přistoupit pedagogicky, jako k problému, který lze vyřešit lepší výukou, lepšími učiteli, jejich nasazením v ochotě text kreativně vysvětlit, lepšími příklady na seminářích atd. To je bez pochyby pravda, avšak v duchu fakultní sociologie, kdy řešiteli nesou lepší učitelé, ale studenti sociologie. V takovém případě je nutné se “tíži” a “cizost” dívat jako se díváme na jiná zatížení a odcizení ve společnosti a předpokládat, že jako předměty můžou přinést nové poznání. Ostatně právě naučit se nacházet řešení, jež nejsou založená na lepší kontrole (pedagogická, politická), ale větší transparenci (vědecká, sociologická) je duchem sociologie, jež se ve fakultní sociologie nabízí k praktickému osvojení. 
 
-V návaznosti na jednoduchý Bauman-Adornův vzor úvodu do sociologie, který nám slouží pro iniciaci fakultní sociologie, nás směřuje k soustavám vědění, v nichž se vědění nachází (Bauman) a ke kontextu soustavy vzdělávání, jež předcházela a jež má mít nějaký účel (Adorno). Na základě této ad hoc sociální teorie (tj. teorie utvořená na místě za určitým účelem) vyvodí snadno otázky:
+Jednoduchý Bauman-Adornův vzor úvodu do sociologie, který nám slouží pro iniciaci fakultní sociologie, směřuje naše pozornost k soustavám vědění, v nichž se vědění nachází a podmínkám, v jakých ke vzdělávání dochází. Na základě této ad hoc sociální teorie (tj. teorie utvořená na místě za určitým účelem), lze vyvodit tyto otázky, je-li snahou vysvětlit čtení prvních textů:
 
    **1. Co a jak studenti četli, před tím, než začali číst sociologii? Jaké jsou soukromé knihovny, přečtené a psané texty, v nichž se mají nyní nově umístit sociologické knížky?**   
    

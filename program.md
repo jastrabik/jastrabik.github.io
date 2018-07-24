@@ -14,9 +14,9 @@ Studenti mají čast pocit, že jakékoliv vyšší požadavky od studia sociolo
 * K čemu je sociologie? 
 * Co budu se sociologií dělat? 
 
-Obtížnost najít jasné odpovědi - i v pokročilém, či úspěšném studiu - je pak často příčinou odkladů řešení úkolů a nejistotou o hodnotě investovaného času do studia. To dále vede k demotivaci, prokrastinaci, či úplnému zakončení studia. Pro mnohé je studium sociologie jen prostředkem k získání vysokoškolského titulu, jež vnímají jako normu a nutnost. A jakkoliv její absolventi nachází zaměstnání, tak ta jsou tak rozličná, že jejich nejistota o budoucím povolání, a tak hodnotě sociologie, nijak nezmenšují. Sociologie takto plní funkci ve vzdělávacím systému jako univerzální vysokoškolské vzdělání v situaci deflace hodnoty gymnazijní maturity. Jakkoliv této funkce by se sociologové mohli ujmout dobře - pokud by jej uznali, což se tak neděje.
+Obtížnost najít jasné odpovědi - i v pokročilém, či úspěšném studiu - je pak často příčinou odkladů řešení úkolů a nejistotou o hodnotě investovaného času do studia. To dále vede k demotivaci, prokrastinaci, či úplnému zakončení studia. Pro mnohé je studium sociologie jen prostředkem k získání vysokoškolského titulu, jež vnímají jako normu a nutnost. A jakkoliv její absolventi nachází zaměstnání, tak ta jsou tak rozličná, že od každého studenta se vyžaduje individuální řešení, k čemuž mu nejsou nabídnuty žádné obecné prostředky. Sociologie takto plní funkci ve vzdělávacím systému jako univerzální vysokoškolské vzdělání v situaci deflace hodnoty gymnazijní maturity. Jakkoliv této funkce by se sociologové mohli ujmout dobře - pokud by jej uznali ve faktu. A spolu s tím, že studenti sociologie jsou tím největším publikem jaké sociologie může mít. Neděje se tak a sociologie se vyvětluje a obhajuje skrze to, jak připravuje obecně k povolání, nikoliv jaké vědění nabízí. Jakkoliv ve skutečnosti nabízí pak jen vědění a nepřipravuje k ničemu určitému.
 
-Fakultní sociologie takto nahlíží na studium sociologie jako na sociální problém, neboť předpokládá, že studenti nepřicházejí s plným věděním o povaze oboru, či způsobech uplatnění. Toto nevědění se odráží negativně na prostředí výuky a snižuje její potenciální možnosti. Demotivuje ty původně motivované a vytváří odcizení mezi studenty a jejich disciplínou. 
+Fakultní sociologie takto nahlíží na studium sociologie jako na sociální problém, neboť předpokládá, že studenti nepřicházejí s plným věděním o povaze oboru, či o způsobech uplatnění. Toto nevědění se odráží negativně na prostředí výuky a snižuje její potenciální možnosti. Demotivuje ty původně motivované a odcizuje studenty a jejich disciplínou. 
 
 Zodpovězení otázek tak vyžaduje propojit výklad sociologie se způsoby zvyšování motivace a snížení studijní zátěže. Navrženým řešením jsou tři způsoby odpovídání na zmíněné otázky: 
 
@@ -24,7 +24,7 @@ Zodpovězení otázek tak vyžaduje propojit výklad sociologie se způsoby zvy�
 * Sociologie je zajímavá
 * Sociologie je užitečná 
 
-Jakkoliv si každý student musí najít odpovědí sám dle své preference a zkušenosti, tak tyto obecné principy jsou sdílitelné hodnoty, a tak referenční rámce pro kolektivní řešení. 
+Jakkoliv si každý student musí najít odpovědi na otázky sám, dle své preference a zkušenosti, tak tyto obecné principy jsou sdílitelné hodnoty, a tak referenční rámce pro kolektivní řešení. 
 
 ![Náhled]({{ "/assets/doc2-1.jpg" | absolute_url }})
 

@@ -97,5 +97,5 @@ Projekt je realizován kolektivně, v případě zájmu pište na e-mail alex@fa
 
 Projekt je realizován ve spolupráci s studentským spolkem Institutu sociologických studií FSV UK Miroslova. Pod názvem “Léto s Tocquevillem”.
 
-![Léto s Tocquevillem]({{"/assets/My Post(2).jpg" | absolute_url }} =250x) 
+![Léto s Tocquevillem]({{"/assets/My Post(2).jpg" | absolute_url }}) 
 

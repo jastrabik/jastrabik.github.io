@@ -5,6 +5,14 @@ date:   2018-07-02 22:22:54 +0200
 author: Jiří Bureš
 categories: vyzkum
 ---
+
+Naším cílem je vytvořit vysvětlení prvního sociologického textu, a tak názorně ukázat, jak je možné číst a pracovat se sociologickým textem. Tento výsledný komentář k textu bude volně ke stažení, či publikován a rozdávám zdarma novým studentům.
+
+1. [Obecný problém](#problém)
+2. [Řešení](#způsob-řešení)
+2. [Jak to bude vypadat?](#obsah-řešení)
+2. [Jak můžu pomoci?](#postup-řešení)
+
 ### Problém
 V úvodu své populárně-naučné knihy _Myslet sociologicky_ se [Zygmunt Bauman](https://cs.wikipedia.org/wiki/Zygmunt_Bauman) snaží seznámit neznalého čtenáře se sociologií. Provází ho proto knihovnou a spolu hledají sociologickou literaturu. Bauman takto umisťuje sociologii mezi známější obory lidského poznání (psychologii, ekonomii, historii). Odhaluje čtenáři, čím jsou si podobné a čím se od nich sociologie odlišuje. To se může zdát jako hezký trik, jak napsat úvod do sociologie. Avšak Bauman takto zároveň demonstruje hned na prvních stranách knihy samo sociologické myšlení – i když přemýšlí o sociologii, tak nemyslí na její definice, ale ihned zve čtenáře do světa, mezi regály knihovny, kde je vědění utříděné podle nějakého systému. A zde, “mezi věcmi”, poprvé mluví o sociologii. 
 
@@ -88,3 +96,6 @@ Projekt je realizován kolektivně, v případě zájmu pište na e-mail alex@fa
 *	Přispění vlastními postřehy
 
 Projekt je realizován ve spolupráci s studentským spolkem Institutu sociologických studií FSV UK Miroslova. Pod názvem “Léto s Tocquevillem”.
+
+![Léto s Tocquevillem]({{"/assets/My Post(2).jpg" | absolute_url }} =250x) 
+

@@ -30,9 +30,9 @@ Budujeme společně pozitivní výklady sociologie, usilujeme o mírnění stude
 ### Dárci   
 Finanční prostředky pokrývají náklady spojené s distribucí materiálů vypracovanými studenty, jdou na podporu studentských výzkumů a projektů. Přejem si rozšiřovat výsledné publikace zdarma v duchu [otevřené vědy](https://en.wikipedia.org/wiki/Open_science). Z toho důvodu Fakultní sociologie dodržuje standardy a postupy doporučené neziskovou organizací [Open science](https://cos.io/).
 
-Nyní hledáme prostředky pro vlastní kancelář, kde bychom mohli vést vlastní semináře pro studenty, či širokou veřejnost. Věříme, že podpora studentů sociologie je základem k budování otevřené a kritické společnosti, zároveň prohlubování jejich praktických schopností. Věříme, že právě podpora studentů zprostředkovaný společenskou vědou k [otevřené společnosti](https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%A1_spole%C4%8Dnost).   
+Nyní hledáme prostředky pro kancelář, kde bychom mohli vést vlastní semináře pro studenty, či širokou veřejnost. Věříme, že podpora studentů sociologie je základem k budování otevřené a kritické společnosti, zároveň prohlubování jejich praktických schopností. Věříme, že právě podpora studentů zprostředkovaný společenskou vědou k [otevřené společnosti](https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%A1_spole%C4%8Dnost).   
 
-Podpořte Fakultní sociologii, pokud věříte v hodnotu rozvoje moderních společenských věd a humanitní vzdělanosti. Jen pokud budou mít studenti větší jistoty o své budoucnosti a více pracovních zkušeností se sociologií, zkušenostmi s jejími efekty, tak tím se zároven zvýší užitek veřejných prostředků, které byly investované do jejich univerzitního vzdělání. 
+Věříme, že pokud budou mít studenti více jistot o své budoucnosti a více pracovních zkušeností se sociologií, zkušenostmi s jejími efekty, tak tím se zároven zvýší užitek veřejných prostředků, které byly investované do jejich univerzitního vzdělání. 
 
 **»**	E-mail: darci@fakultnisociologie.cz
 

@@ -6,7 +6,7 @@ author: Jiří Bureš
 categories: vyzkum
 ---
 
-Naším cílem je vytvořit vysvětlení prvního sociologického textu, a tak názorně ukázat, jak je možné číst a pracovat se sociologickým textem. Tento výsledný komentář k textu bude volně ke stažení, či publikován a rozdávám zdarma novým studentům.
+Naším cílem je vytvořit komentář k prvnímu textu, který čtou studenti sociologie. Komentář má názorně ukázat, jak je možné číst a efektivně pracovat se sociologickým textem, a jak z něj vytvořit text nový - výpisky, vlastní komentář, či abtrakt. Domníváme se, že studenti by měli alespoň jedinkrát - a nejlépe na začátku studia - názorně vidět, co vše může text důkladnému čtenáři nabídnout. Tento výsledný komentář k textu bude volně ke stažení, či publikován a rozdáván zdarma novým studentům sociologie.
 
 1. [Obecný problém](#problém)
 2. [Řešení](#způsob-řešení)

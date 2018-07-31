@@ -6,7 +6,7 @@ author: Jiří Bureš
 categories: vyzkum
 ---
 
-Naším cílem je vytvořit komentář k prvnímu textu, který čtou studenti sociologie. Komentář má názorně ukázat, jak je možné číst a efektivně pracovat se sociologickým textem, a jak z něj vytvořit text nový - výpisky, vlastní komentář, či abtrakt. Domníváme se, že studenti by měli alespoň jedinkrát - a nejlépe na začátku studia - názorně vidět, co vše může text důkladnému čtenáři nabídnout. Tento výsledný komentář k textu bude volně ke stažení, či publikován a rozdáván zdarma novým studentům sociologie.
+Naším cílem je vytvořit komentář k sociologickému textu pro první čtenáře sociologie. Komentář má názorně ukázat, jak je možné číst a efektivně pracovat se sociologickým textem, a jak z něj vytvořit text nový - výpisky, vlastní komentář, či abtrakt. Domníváme se, že studenti by měli alespoň jedinkrát - a nejlépe na začátku studia - názorně vidět, co vše může text důkladnému čtenáři nabídnout. Tento výsledný komentář k textu bude volně ke stažení, či publikován a rozdáván zdarma novým studentům sociologie.
 
 1. [Obecný problém](#problém)
 2. [Řešení](#způsob-řešení)
@@ -20,7 +20,7 @@ Ve svém univerzitním kurzu _Úvod do sociologie_ z roku 1968 [Theodor Adorno](
 
 Když Bauman a Adorno poprvé mluví o sociologii, mluví o ní sociologicky. Knihovna, či trh práce jsou jedny z mnoha sociálních rámců, v nichž se sociologické vědění a vzdělání nachází. Jim pak stačí na tyto skutečnosti - o nichž jsou čtenáři a studenti přirozeně seznámeni - jen ukázat. Jejich záměrem je říci, že sociologie takto nějak pracuje s "uvědomováním" si souvislostí a propojováním různých úrovních skutečnosti, s nimiž jsme často seznámeni, ale jsme zvyklí je držet odděleně. Jde o zvláštní druh představivosti, kterému se říká sociologická imaginace, jež pak znamená dovednost představit si soukromé problémy lidí ve vztahu k společenské situaci. Je-li pak záměrem vysvětlit toto sociologické uvědomování a představivost, tak zřejmě není mnoho lepších strategií, než ji použít nejdříve na sociologii samotnou - jak samotná je zavěšená do různých sociálních rámců.
 
-Nazvěme tento "trik" jako Bauman-Adornovu sociolgickou reflexi a položme si otázku, kam je možné s touto reflexí, s níž se představuje sociologie až dojít? Na příklad, jak může vypadat tento trik realizovaný samotnými studenty sociologie - je možné se učit sociologii trochu více sociologicky? Tato možnost zde bude testována a to na problému, který nahlíží - jak studenti čtou svůj první sociologický text.
+Nazvěme tento "trik" jako Bauman-Adornovu rvní sociologickou reflexi a položme si otázku, kam je možné s touto reflexí, s níž se představuje sociologie až dojít? Na příklad, jak může vypadat tento trik realizovaný samotnými studenty sociologie, nebo jinými slovy, jak může vypadat jakmile ji začnou používat oni samotnotní - je možné se učit sociologii trochu více sociologicky? Tato možnost zde bude testována a to na problému, který nahlíží - jak studenti čtou svůj první sociologický text.
 
 A ihned můžeme říci, že se studentům čtou těžce. Pokud se jich zeptáte, často vám řeknou, že mají pocit, že čtou text v cizím jazyce (i když jde o české překlady). Věty jsou divně uspořádané, odkazují na knížky, o kterých nikdy neslyšeli a čtou text, jehož autoři je nikdy jako čtenáře na mysli neměli. Jsou cizinci v zemi, které je odmítá - obtížnost četby se tak projevuje jako odcizení. A to vůči textu a jeho kontextu, a tak i vůči sobě navzájem, protože každý ho čte jinak a vůči oboru, který nenabízí žádný jediný správný výklad, pouze rozmanitost výkladů, postřehů, jejichž původ studenti nejsou schopni očekávat, natož je napodobit (neboť jsou jednduše založené na zkušenosti s jinou četbou). 
 
@@ -36,12 +36,12 @@ Jednoduchý Bauman-Adornův vzor úvodu do sociologie, který nám slouží pro 
 
 ### Způsob řešení
 
-Jedním z principů vědeckého myšlení je schopnost redukovat problém na menší oddíly a řešit jej ekonomicky (úsporně) – zájem měřit vzdálenost Měsíce od Země tím, že natáhneme železnou tyč od jednoho tělesa k druhému, můžeme považovat za vědecký zájem, těžko bychom řekli, že užívá vědeckých prostředků k jeho dosažení. Výše představné dva problémy by bylo možné řešit extenzivní a longitudinální studií o myšlení a vědomostech středoškolských studentů, o způsobech, jak čtou, píšou a myslí – jak na to působí školní osnovy a současné metody vzdělávání, nebo jak se utváří skrze komunikační technologie. Taková výsledná studie o příčinách tíže první sociologie, by byla nejspíše sama velmi obtížně čitelná a udělala nespíše radost nejvýše sociologům samotným.  
+Jedním z principů vědeckého myšlení je schopnost redukovat problém na menší oddíly a řešit jej ekonomicky (úsporně) – zájem měřit vzdálenost Měsíce od Země tím, že natáhneme železnou tyč od jednoho tělesa k druhému, můžeme považovat za vědecký zájem, těžko bychom řekli, že užívá vědeckých prostředků k jeho dosažení. Výše představné dva problémy by bylo možné řešit extenzivní a longitudinální studií o myšlení a vědomostech středoškolských studentů, o způsobech, jak čtou, píšou a mysl, mohli bychom vytvořit dotazníky o jejich hodnotách a postojích v různých vzájemných závislostech. A dále bychom mohli uvažovat, jak na tyto závislosti působí školní osnovy a současné metody vzdělávání, nebo jak se utváří skrze komunikační technologie. Taková výsledná studie o příčinách tíže první sociologie, by byla nejspíše sama velmi obtížně čitelná a udělala nespíše radost nejvýše sociologům samotným.  
 
 K řešení je proto přistupována úsporněji:
 
-   1. Na místo prozkoumání všeho, co studenti čtou a ví, bude prozkoumáno, jak čtou a snaží se poznávat sociologický text.
-   2. Na míst snahy o kompletní manuál pro jejich všechny budoucí četby, bude vytvořený výklad jediného textu; na místo „univerzality“ manuálu je cílem „maximalizace“ interpretace/í.
+   1. Na místo prozkoumání všeho, co studenti čtou a ví, bude prozkoumáno, jak přímo čtou a snaží se poznávat konkrétní sociologický text, tzn. jejich primární text.
+   2. Na místo snahy o kompletní manuál pro jejich všechny budoucí četby, bude vytvořený výklad jediného textu; na místo „univerzality“ manuálu je cílem „maximalizace“ interpretace/í.
    3. A to vše uskutečněné spolu se studenty, kteří můžou dát zpětnou vazbu, zda dosaženému “maximu” výklady rozumí, zda bylo vše vysvětleno srozumitelně a stručně.
     
 Prvním textem pro toto experimentální řešení je zvolen patnáctistránkový úryvek z knihy Alexise de Tocquevilla _Demokracie v Americe_. Ten se jinak běžně čte v úvodních kurzech do dějin sociologie (např. na ISS FSV), proto existuje dostatečné množství abstraktů a komentářů k prvotní analýze.  

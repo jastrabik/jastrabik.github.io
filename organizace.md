@@ -38,7 +38,7 @@ Věříme, že pokud budou mít studenti více jistot o své budoucnosti a více
 
 
 ### Přímá podpora studentům a studentských spolků    
-Napište nám, pokud zakládáte, nebo rozvíjete vlastní studentský spolek, či projekt a potřebujete s ním pomoci. Věříme, že studenti sociologie jsou aktivní již dost – pouze v jejich nabitém čase, kde střídají osobní život, práci a studium, k tomu další příležitosti a nejistoty vlastní budoucnosti. Snažíme se tuto mnohost snížit a podporovat ve studiu, či snížit pracovní nasazení. Usilujeme o podporu a sociologické poznání, které může akcelerovat studentské aktivity.     
+Napište nám, pokud zakládáte, nebo rozvíjete vlastní studentský spolek, či projekt a potřebujete s ním pomoci. Věříme, že studenti sociologie jsou aktivní již dost – pouze v jejich nabitém čase, kde střídají osobní život, práci a studium, k tomu další příležitosti a nejistoty vlastní budoucnosti. Snažíme se tyto nejistoty snížit - konkrétními způsoby studia, výklady, co znamená studovat sociologii, co vše můžou dělat, jaké samostudium může pomoci plnému využití jejich vzdělání atd. Usilujeme o přímou podporu, tak o sociologické poznání, které může akcelerovat nové studentské aktivity a vznik nových spolků. Věříme, že studium sociologie je predispozicí k tomu vytvářet nová společností, nové kolektivy, které definují, či řeší společenské problémy.     
 
 Přejeme si vytvořit alternativní stipendia pro aktivní studenty, kteří realizují vlastní způsoby „fakultní sociologie“ a přispívají k rozvoji studentské identity a pozitivnímu obrazu sociologie a humanitních věd.     
 

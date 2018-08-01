@@ -78,7 +78,7 @@ To znamená: Výsledkem je "manuál" ke čtení úryvku od Alexise de Tocquevill
 
 ### Postup řešení
 
-Projekt je realizován kolektivně, v případě zájmu pište na e-mail alex@fakultnisociologie.cz. Účast na výzkumu probíhá v podobě čtení Tocquevillových textů a jeho současných interpretací, dodání zpětné vazby, editace, korektury atd. Všem, kdo se podílí na spolupráci, bude přiznáno autorství ve výsledné publikaci. 
+Projekt je realizován kolektivně - od studentů studentům. Účast na výzkumu probíhá v podobě čtení Tocquevillových textů a jeho současných interpretací, dodání zpětné vazby, editace, korektury atd. Všem, kdo se podílí na spolupráci, bude přiznáno autorství ve výsledné publikaci. 
 
 1.	Co vše bylo o A.T. napsáno v Česku a v zahraničí? 
 * Vypracování rešerše

@@ -26,11 +26,11 @@ A ihned můžeme říci, že se studentům čtou těžce. Pokud se jich zeptáte
 
 K tomu je možné přistoupit pedagogicky, jako k problému, který lze vyřešit lepší výukou, lepšími učiteli, jejich nasazením v ochotě text kreativně vysvětlit, lepšími příklady na seminářích atd. To je bez pochyby pravda. Avšak v duchu fakultní sociologie, řešiteli nejsou lepší učitelé, ale lepší sociologie. To je vědění o studentech pro studenty, na kterém se podílejí studenti i vyučující. V takovém případě je nutné se na “tíži” textů dívat jako na "odcizení", které se dále projevuje jako odcizení od vyučujících, od spolužáků, od svého vlastního kreativního potenciálu atd. Tedy, dívat se "obtížnost" textu podobně jako se sociologové dívají na jiná zatížení společností a odcizením od společnosti. Ostatně právě naučit se nacházet řešení, jež nejsou založená na lepší kontrole (pedagogická, politická), ale větší transparenci (vědecká, sociologická) je duchem sociologie, jež se ve fakultní sociologie nabízí k praktickému osvojení.  
 
-Jednoduchý Bauman-Adornův vzor úvodu do sociologie, který nám slouží pro iniciaci fakultní sociologie, směřuje naši pozornost k soustavám vědění, v nichž se vědění nachází a podmínkám, v jakých ke vzdělávání dochází. Na základě tohoto úvodu, který nás vedl k tomu používat sociologii v okolnostech prvního sektání se sociologií, je možné si položit tyto dvě otázky:
+Jednoduchý Bauman-Adornův vzor úvodu do sociologie, který nám slouží pro iniciaci fakultní sociologie, směřuje naši pozornost k soustavám vědění, v nichž se vědění nachází a podmínkám, v jakých ke vzdělávání dochází. Na základě tohoto úvodu, který nás vedl k tomu používat sociologii v okolnostech prvního sektání se sociologií, je možné si položit tyto dvě otázky:    
 
-   **1. Co a jak studenti četli, před tím, než začali číst sociologii? Jaké jsou soukromé knihovny, přečtené a psané texty, v nichž se mají nyní nově umístit sociologické knížky?**   
-   
-   **2. Jaké jsou způsoby uvažování a práci s textem, práce s učebnicemi v předchozím vzdělávání? Jaké jsou podmínky a možnosti, pro aktivní čtení a interpretace a komentování textů?**
+1. Co a jak studenti četli, před tím, než začali číst sociologii? Jaké jsou soukromé knihovny, přečtené a psané texty, v nichž se mají nyní nově umístit sociologické knížky?   
+
+2. Jaké jsou způsoby uvažování a práci s textem, práce s učebnicemi v předchozím vzdělávání? Jaké jsou podmínky a možnosti, pro aktivní čtení a interpretace a komentování textů?
   
 
 
@@ -49,8 +49,9 @@ Prvním textem pro toto experimentální řešení je zvolen patnáctistránkov�
 Výsledné vysvětlení může být zpracováno takovým způsobem, aby bylo srozumitelné i studentům středních škol, a tak první text pro studenty seznamující se sociologickým myšlením a věděním, může být obecným textem pro seznámení s některými výklady a myšlením o demokracii. Toto je důležitá podmínka fakultní sociologie – cílem je orientace na studenty, avšak produkt by měl mít obecnou hodnotu. 
 
 Na rozdíl od běžného sociologický výzkum, jenž by usilovat o zodpovězení může být řešen mnohem úsporněji a efektivněji, pokud   
-**1. jsou ti, kterým je výsledný text směřován, účastni jeho vytváření,**      
-**2. výsledek je samo-obsažný, a tak bez nutné předchozí znalosti sociologie je přístupný komukoliv.**   
+
+1. jsou ti, kterým je výsledný text směřován, účastni jeho vytváření,    
+2. výsledek je samo-obsažný, a tak bez nutné předchozí znalosti sociologie je přístupný komukoliv.    
     
 Student, který si otevře komentovaný výklad kapitoly uvidí, co se skrývá za textem, co podobného může hledat v jiných textech, věnuje-li jim čas a trpělivost. Studenti, kteří se na textu budou podílet, můžou být motivováni pomoci mladším ročníkům, vyzkoušet si sociologickou analýzu textů, interpretace, či přispět myšlení o demokracii a zpřístupnit text, který je důležitou reflexí na toto téma. 
 

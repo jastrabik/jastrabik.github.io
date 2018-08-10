@@ -34,7 +34,7 @@ Nyní hledáme prostředky pro kancelář, kde bychom mohli vést vlastní semin
 
 Věříme, že pokud budou mít studenti více jistot o své budoucnosti a více pracovních zkušeností se sociologií, zkušenostmi s jejími efekty (např. s její výukou), tak tím se zároven zvýší užitek veřejných prostředků, které byly investované do jejich univerzitního vzdělání. 
 
-**»**	E-mail: darci@fakultnisociologie.cz
+**»**	E-mail: darci@fakultnisociologie.cz   
 **»** Číslo účtu: 2701478436/2010
 
 

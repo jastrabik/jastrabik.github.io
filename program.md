@@ -4,17 +4,21 @@ title: Program
 permalink: /program/
 ---
 
-_Tento program definuje sociální problém, o jehož řešení nezisková organizace Fakultní sociologie, z. s. usiluje a zároveň sociologický problém, který otevírá jako vlastní směr fakultní sociologie a prostor pro tvorbu sociologického poznání, či úpravu toho stávající (nové výklady, učební pomůcky atd.)._
+_Program definuje sociální problém, o jehož řešení nezisková organizace Fakultní sociologie, z. s. usiluje a zároveň sociologický problém, který charakterizuje fakultní sociologii jakožto specifickou disciplínu v sociologii._
 
 ## Tři otázky studentů sociologie
 
-Studenti mají čast pocit, že jakékoliv vyšší požadavky od studia sociologie, ať už samostudium, doporučená četba aj., jsou jen překážkami na cestě bez cíle. Tyto pocity je možné pozorovat jako obtíž odpovědět na tři otázky:  
+Studenti si často pokládají tři otázky:  
 
 * Co je sociologie? 
 * K čemu je sociologie? 
 * Co budu se sociologií dělat? 
 
-Obtížnost najít jasné odpovědi - i v pokročilém, či úspěšném studiu - je pak často příčinou odkladů řešení úkolů a nejistotou o hodnotě investovaného času do studia. To dále vede k demotivaci, prokrastinaci, či úplnému zakončení studia. Pro mnohé je studium sociologie jen prostředkem k získání vysokoškolského titulu, jež vnímají jako normu a nutnost. A jakkoliv její absolventi nachází zaměstnání, tak ta jsou tak rozličná, že od každého studenta se vyžaduje individuální řešení, k čemuž mu nejsou nabídnuty žádné obecné prostředky. Sociologie takto plní funkci ve vzdělávacím systému jako univerzální vysokoškolské vzdělání v situaci deflace hodnoty gymnazijní maturity. Jakkoliv této funkce by se sociologové mohli ujmout dobře - pokud by jej uznali ve faktu. A spolu s tím, že studenti sociologie jsou tím největším publikem jaké sociologie může mít. Neděje se tak a sociologie se vyvětluje a obhajuje skrze to, jak připravuje obecně k povolání, nikoliv jaké vědění nabízí. Jakkoliv ve skutečnosti nabízí pak jen vědění a nepřipravuje k ničemu určitému.
+Obtížnost najít jasné odpovědi - i v pokročilém, či úspěšném studiu - je pak často příčinou odkladů řešení studijních úkolů a nejistotou o hodnotě investovaného času do studia. To dále vede k demotivaci, prokrastinaci, či úplnému zakončení studia. Pro mnohé je studium sociologie jen prostředkem k získání vysokoškolského titulu, jež vnímají jako normu a nutnost. 
+
+Absolventi sociologie nachází zaměstnání. Avšak tato zaměstnání jsou velmi rozmanitá, často založená na preferencích a zkušenostech, která nevyplývají ze studia. Studenti čelí výběru zaměstnání osamoceně a řešení musí nacházet individuálně. Tuto situaci výuka sociologie nereflektu a nejsou nabídnuty žádné obecné způsoby řešení. Na příklad, katedry sociologie málokdy pokrývají - a nutno dodat, že to není ani v jejich silách - nabídnout souhrn všech specializací, které obor v současnosti nabízí.  
+
+Sociologie plní funkci ve vzdělávacím systému jako univerzální vysokoškolské vzdělání. Jakkoliv této funkce by se sociologové mohli ujmout dobře. A spolu s tím, že studenti sociologie jsou tím největším publikem jaké sociologie může mít. Neděje se tak a sociologie se vyvětluje a obhajuje skrze to, jak připravuje obecně k povolání, nikoliv jaké vědění nabízí. Jakkoliv ve skutečnosti nabízí pak jen vědění a nepřipravuje k ničemu určitému.
 
 Fakultní sociologie takto nahlíží na studium sociologie jako na sociální problém, neboť předpokládá, že studenti nepřicházejí s plným věděním o povaze oboru, či o způsobech uplatnění. Toto nevědění se odráží negativně na prostředí výuky a snižuje její potenciální možnosti. Demotivuje ty původně motivované a odcizuje studenty a jejich disciplínou. 
 

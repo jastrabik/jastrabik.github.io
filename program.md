@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Program
-permalink: /program/
+permalink: 
 ---
 
 _Program definuje sociální problém, o jehož řešení nezisková organizace Fakultní sociologie, z. s. usiluje a zároveň sociologický problém, který charakterizuje fakultní sociologii jakožto specifickou disciplínu v sociologii._

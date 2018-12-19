@@ -1,8 +1,8 @@
----
+
 title: Výzkumy
----
 layout: page
 permalink: /vyzkumy/
+
 _Fakultní sociologie zkoumá sociální kontext studia sociologie a nabízí řešení nalezených problémů._
 
 1. [*Jak číst první sociologický text?*](http://fakultnisociologie.cz/vyzkum/2018/07/02/jak-cist-sociologii.html)

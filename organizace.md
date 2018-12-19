@@ -1,6 +1,3 @@
----
-title: Organizace
----
 
 1. [Dobrovolníci](#dobrovolníci)
 2. [Dárci](#dárci)

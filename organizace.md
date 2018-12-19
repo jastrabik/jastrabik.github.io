@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Organizace
-permalink: /organizace/
 ---
 
 1. [Dobrovolníci](#dobrovolníci)

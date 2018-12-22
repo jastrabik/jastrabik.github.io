@@ -5,9 +5,10 @@
 layout: home
 ---
 
-<img src="http://fakultnisociologie.cz/assets/title.png" width="400">
-
-Fakultní sociologie je experimentální studijní skupina.
+<img src="http://fakultnisociologie.cz/assets/title.png" width="350">
+<br/>
+<br/>
+_Fakultní sociologie je experimentální studijní skupina._
  
 Naším cílem je zjednodušit studium, abychom měli čas na vlastní sociologické práce a účastnit se rozmanitých studentských projektů.
  

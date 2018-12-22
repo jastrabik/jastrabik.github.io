@@ -8,7 +8,7 @@ layout: home
 <img src="http://fakultnisociologie.cz/assets/title.png" width="350">
 <br/>
 <br/>
-**Fakultní sociologie je experimentální studijní skupina.**
+**Fakultní sociologie je experimentální studijní skupina.** <br/>
  <br/>
 Naším cílem je zjednodušit studium, abychom měli čas na vlastní sociologické práce a účastnit se rozmanitých studentských projektů.
  
@@ -17,3 +17,20 @@ Chceme rozvíjet spolupráci, která podle nás v sociologii a společenských a
 Spolupráci mezi studenty a napříč obory a mimo univerzitu.
  
 Jak to funguje? >>
+
+```
+Jak to funguje? >>
+ 
+1. Každý člen FS obdrží vlastní adresu >>
+   xy@fakultnisociologie.cz
+ 
+2. Skrze ní dostane přístup do dílny FS: G Suite (Gmail,
+   GoogleDocs, Disky, Kalendář aj.).
+ 
+3. Členové v dílně pracují na svých úkolech, sdílejí je,
+   čtou je navzájem a upravují, využívají společné studijní
+   materiály.
+ 
+4. Vybrané společné, či osobní práce jsou zveřejněné na >>
+   fakultnisociologie.cz/xy
+```

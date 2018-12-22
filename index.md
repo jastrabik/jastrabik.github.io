@@ -19,10 +19,10 @@ Spolupráci mezi studenty a napříč obory a mimo univerzitu.
 Jak to funguje? >>
 
 ```
-1. Každý člen FS obdrží vlastní adresu >>
-   <span style="color:blue">xy@fakultnisociologie.cz</span>
- 
-2. Skrze ní dostane přístup do dílny FS: G Suite (Gmail,
+1. Každý člen obdrží vlastní adresu >>
+   xy@fakultnisociologie.cz
+   
+2. Skrze ní dostane přístup do Dílny: G Suite (Gmail,
    GoogleDocs, Disky, Kalendář aj.).
  
 3. Členové v dílně pracují na svých úkolech, sdílejí je,
@@ -32,3 +32,8 @@ Jak to funguje? >>
 4. Vybrané společné, či osobní práce jsou zveřejněné na >>
    fakultnisociologie.cz/xy
 ```
+
+
+Děkujeme sponzorům 
+
+<img src="http://fakultnisociologie.cz/assets/leda.gif">

@@ -4,6 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+![alt text](https://fakultnisociologie.cz/assest/title.png)
+
 Fakultní sociologie je experimentální studijní skupina.
  
 Naším cílem je zjednodušit studium, abychom měli čas na vlastní sociologické práce a účastnit se rozmanitých studentských projektů.

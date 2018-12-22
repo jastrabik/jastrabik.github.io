@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![alt text](http://fakultnisociologie.cz/assets/title.png =400x)
+<img src="Assets/title.png" width="200">
 
 Fakultní sociologie je experimentální studijní skupina.
  

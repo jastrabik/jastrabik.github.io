@@ -36,4 +36,4 @@ Jak to funguje? >>
 
 Děkujeme sponzorům 
 
-<img src="http://fakultnisociologie.cz/assets/leda.gif">
+<a href="www.leda.cz"><img src="http://fakultnisociologie.cz/assets/leda.gif"></a>

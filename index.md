@@ -19,10 +19,8 @@ Spolupráci mezi studenty a napříč obory a mimo univerzitu.
 Jak to funguje? >>
 
 ```
-Jak to funguje? >>
- 
 1. Každý člen FS obdrží vlastní adresu >>
-   xy@fakultnisociologie.cz
+   <span style="color:blue">xy@fakultnisociologie.cz</span>
  
 2. Skrze ní dostane přístup do dílny FS: G Suite (Gmail,
    GoogleDocs, Disky, Kalendář aj.).

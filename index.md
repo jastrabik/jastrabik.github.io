@@ -32,7 +32,7 @@ Jak to funguje? >>
 4. Vybrané společné, či osobní práce jsou zveřejněné na >>
    fakultnisociologie.cz/xy
 ```
-Kompletní program Fakultní sociologie, z.s. ke stažení [zde](http://fakultnisociologie.cz/assets/FSbp.pdf)(brožura, březen 2019).
+Kompletní program Fakultní sociologie, z.s. ke stažení [zde](http://fakultnisociologie.cz/assets/FSbp.pdf) (brožura, březen 2019).
 
 Děkujeme sponzorům 
 
